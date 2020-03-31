@@ -1,30 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 1: 31/3/20 Tuesday  
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: I've got my head around the various ways of writing functions, the difference between expressions and declarations and how parameters and arguments interact with each other.
 
-**Link to work:** [Calculator App](http://www.example.com)
+Basics, but I realised when doing a React tut recently I was following ok with the code (after all, you just copy essentially) but some sentences were going over my head so I decided to go back in on the terminology until I genuinely understood it
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I've prob already done around 100 hours of learning but excited to start this challenge. Also excited to get back to React with some solid JS fundamentals under my belt. I've always understood the meta concepts but now I get each part of the code a bit more
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [IG Video #100DaysOfCode Day 1](https://www.instagram.com/p/B-Z05zqA34O/)
