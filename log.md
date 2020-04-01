@@ -10,7 +10,7 @@ Basics, but I realised when doing a React tut recently I was following ok with t
 **Thoughts** I've prob already done around 100 hours of learning but excited to start this challenge. Also excited to get back to React with some solid JS fundamentals under my belt. I've always understood the meta concepts but now I get each part of the code a bit more
 
 **Link(s) to work**
-1. [IG Video #100DaysOfCode Day 1](https://www.instagram.com/p/B-Z05zqA34O/){:target="_blank"}
+1. [IG Video #100DaysOfCode Day 1](https://www.instagram.com/p/B-Z05zqA34O/)
 
 ### Day 2: 1/4/20 Tuesday  
 
@@ -19,7 +19,7 @@ Basics, but I realised when doing a React tut recently I was following ok with t
 **Thoughts** Glad I fully get this now. Name, parameters, statement, arguments all mean something to me now. 
 
 **Link(s) to work**
-1. [IG Video #100DaysOfCode Day 2](https://www.instagram.com/p/B-cOZgXg6rr/){:target="_blank"}
+1. [IG Video #100DaysOfCode Day 2](https://www.instagram.com/p/B-cOZgXg6rr/)
 
 
 
