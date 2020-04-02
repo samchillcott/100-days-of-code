@@ -21,5 +21,12 @@ Basics, but I realised when doing a React tut recently I was following ok with t
 **Link(s) to work**
 1. [IG Video #100DaysOfCode Day 2](https://www.instagram.com/p/B-cOZgXg6rr/)
 
+### Day 3: 2/4/20   
 
+**Today's Progress**: ES6 Modules (Vanilla JS). Came across export default when using React and understood its function but not really the syntax - this seems to be a theme! Also looked at node.js module.exports.
+
+**Thoughts** I knew going into frameworks would highlight some areas of JS I'd have to go back on so I'm glad I made notes while doing it (anything I didn't quite get while playing with React and Vue, I checked to see if it was Vanilla or the framework). Looking forward to getting back to React with this fundamental knowledge in place. Still a few (main) areas to go back to but will do them first. 
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode Day 3](https://www.instagram.com/p/B-e26ONAKeS/)
 
