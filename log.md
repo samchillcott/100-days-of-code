@@ -1,6 +1,5 @@
 # 100 Days Of Code - Log
 
-
 ### Day 1: 31/3/20 Tuesday  
 
 **Today's Progress**: I've got my head around the various ways of writing functions, the difference between expressions and declarations and how parameters and arguments interact with each other.
@@ -29,4 +28,13 @@ Basics, but I realised when doing a React tut recently I was following ok with t
 
 **Link(s) to work**
 1. [IG Video #100DaysOfCode Day 3](https://www.instagram.com/p/B-e26ONAKeS/)
+
+### Day 4: 3/4/20   
+
+**Today's Progress**: Classes, constructor functions, instances. The difference between objects and classes and what they are used for. Next week or so will be learning but will move back to tutorials and actual coding soon (what I was doing before I started the challenge).
+
+**Thoughts** I now can see how OOP can be used in real life. Learning JS using online classes is cool but does sometimes lack the context of when and how the code would be useful. As with the last few days, I have had to backtrack a little but it's all good. It's lucky I love learning.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B-hNVHMAcOT/)
 
