@@ -38,3 +38,11 @@ Basics, but I realised when doing a React tut recently I was following ok with t
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B-hNVHMAcOT/)
 
+### Day 5: 4/4/20   
+
+**Today's Progress**: Classes ctd using Codecademy. Inheritance, parent and child classes, super and extends keywords. Also went back and did Arrays section again as a refresher.
+
+**Thoughts** I now can see how classes can save a lot of time and code = DRY. Another solid 3 hours of learning at the weekend. Love it.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B-j8HHBAO1-/)
