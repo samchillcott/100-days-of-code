@@ -46,3 +46,12 @@ Basics, but I realised when doing a React tut recently I was following ok with t
 
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B-j8HHBAO1-/)
+
+### Day 6: 5/4/20   
+
+**Today's Progress**: Getters and Setters. Didn't initially understand why we wouldn't just access the properties as usual but can now see the advantages of both and how they help with privacy/access etc. Also figured out why underscore was being used - naming convention to indicate the proprty shoudn't be altered
+
+**Thoughts** Little tired today so only did an hour. Switched to less taxing learning and happy I still continued the streak. Also enjoying how whenever I dont 'get' something, I make a note, come back to it, do some research and within a day or so, I 'get' it. Reminds me not to get disheartened.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B-mUeqLgANK/)
