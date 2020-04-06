@@ -55,3 +55,17 @@ Basics, but I realised when doing a React tut recently I was following ok with t
 
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B-mUeqLgANK/)
+
+### Day 7: 6/4/20   
+
+**Today's Progress**: 
+- Factory functions - creating many instances of an object⁣
+- Property value shorthand ⁣
+- Destructuring - extracting key-value pairs from an object and assigning them to a variable⁣
+- Browser compatibility - How some browsers cant work with ES6⁣
+- Babel - a transpiler used to convert ES6 to ES5 to overcome above compatibility issues
+
+**Thoughts** Good to finish off advanced objects section on Codecademy as this is where I got stuck when I first tried JS about 3 months ago. Confident I'll complete the course and comprehend most of it.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B-pDHQFAW7p/)
