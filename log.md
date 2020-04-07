@@ -69,3 +69,26 @@ Basics, but I realised when doing a React tut recently I was following ok with t
 
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B-pDHQFAW7p/)
+
+### Day 8: 7/4/20   
+
+**Today's Progress**: 
+Promises - My introduction to Asynchronous programming. An async operation is one that allows the computer to “move on” to other tasks while waiting for the asynchronous operation to complete.⁣
+⁣
+.setTimeout() - a Node API (a comparable API is provided by web browsers) that uses callback functions to schedule tasks to be performed after a delay. Has two parameters: a callback function and a delay in milliseconds.⁣
+⁣
+.then- a higher-order function— it takes two callback functions as arguments. We refer to these callbacks as handlers. When the promise settles, the appropriate handler will be invoked with that settled value.⁣
+⁣
+.catch() -  takes only one argument, onRejected. In the case of a rejected promise, this failure handler will be invoked with the reason for rejection. Using .catch() accomplishes the same thing as using a .then() with only a failure handler.⁣
+⁣
+Tip 1: Always go back an fill in your gaps of knowledge before you move on⁣
+⁣
+Tip 2: If at first you don't get a concept, stick with it until it clicks.⁣
+
+**Thoughts** 
+As with most of my JavaScript learning journey, I've understood the concepts pretty much right away but not always been able to fully comprehend the syntax. I now recognize that "annoyed/frustrated" feeling as part of the process and have proved to myself multiple times that after a couple of days, I finally get it.⁣
+⁣
+I was thinking of creating a measure called "Syntax Comprehension %" for myself.  I endeavour to understand what EVERY part of the code is doing in a particular block/section/concept. 
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B-rgyRiAU1i/)
