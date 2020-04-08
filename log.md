@@ -92,3 +92,21 @@ I was thinking of creating a measure called "Syntax Comprehension %" for myself.
 
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B-rgyRiAU1i/)
+
+### Day 8: 7/4/20   
+
+**Today's Progress**: 
+Promises - chaining and concurrency.⁣ Finished CA section.
+⁣
+- Chaining Multiple Promises - One common pattern we’ll see with asynchronous programming is multiple operations which depend on each other to execute or that must be executed in a certain order.⁣
+⁣
+This process of chaining promises together is called composition. Promises are designed with composition in mind. Promise composition allows for much more readable code than the nested callback syntax that preceded it.⁣
+⁣
+- Concurrency - To maximize efficiency we should use concurrency, multiple asynchronous operations happening together. With promises, we can do this with the function Promise.all().⁣
+
+**Thoughts** 
+I've been making notes on all the foggy areas and all the questions I have whilst working through the Codecademy Promises section and will consolidate that knowledge over the coming days before moving on to the next section.⁣ Glad I'm practicing what I preach.
+
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B-uDSWYA6lb/)
