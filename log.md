@@ -93,7 +93,7 @@ I was thinking of creating a measure called "Syntax Comprehension %" for myself.
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B-rgyRiAU1i/)
 
-### Day 8: 7/4/20   
+### Day 9: 8/4/20   
 
 **Today's Progress**: 
 Promises - chaining and concurrency.⁣ Finished CA section.
@@ -110,3 +110,16 @@ I've been making notes on all the foggy areas and all the questions I have whils
 
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B-uDSWYA6lb/)
+
+### Day 10: 9/4/20   
+
+**Today's Progress**: 
+- Callback functions - spent today getting head around what the syntax does. ⁣
+⁣
+Be careful not to nest too many callbacks if you can help it, as this can lead to something called “callback hell”.⁣
+
+**Thoughts** 
+I plan to understand callbacks, then promises then async/await as that seems the logical order and that ties into when they were introduced into JavaScript as improvements on the previous iteration. I like my new approach of not bombing onto the next section without fully comprehending.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B-wxiDJAHSh/)
