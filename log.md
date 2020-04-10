@@ -123,3 +123,20 @@ I plan to understand callbacks, then promises then async/await as that seems the
 
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B-wxiDJAHSh/)
+
+### Day 11: 10/4/20   ⁣
+⁣
+**Today's Progress**: Promises but nothing sticking and brain is not functioning properly due to lack of sleep. Started about 6 different videos but ended up staring blankly at the screen.⁣
+⁣
+Had a note to read about errors and handling (related to promises) so I read up on errors and the different types:⁣
+- Syntax⁣
+- Runtime⁣
+- Logical⁣
+- Latent ⁣
+- Input/validation⁣
+- Compilation⁣
+⁣
+**Thoughts** Don’t be afraid to switch to (unrelated) passive learning if you still want to use your study time. Keep it easy.  I switched to super passive note-taking so I can process properly over the coming days when my brain is back in the game. ⁣
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B-zHguag2WH/)
