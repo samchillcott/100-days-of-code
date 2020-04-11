@@ -140,3 +140,24 @@ Had a note to read about errors and handling (related to promises) so I read up 
 
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B-zHguag2WH/)
+
+### Day 12: 11/4/20   ⁣
+⁣
+**Today's Progress**: ⁣
+- Execution context - an abstract concept of an environment where the Javascript code is evaluated and executed. Whenever any code is run in JavaScript, it’s run inside an execution context.⁣
+- Execution Stack - helps the JavaScript engine to keep track of the order of execution.⁣
+- Call stack - a data structure that uses the Last In, First Out (LIFO) principle to temporarily store and manage function invocation (call).⁣
+- Event Loop - has one simple job — to monitor the Call Stack and the Callback Queue. If the Call Stack is empty, it will take the first event from the queue and will push it to the Call Stack, which effectively runs it.⁣
+- Web APIs - A set of functionalities that help us perform additional tasks that are difficult to be performed on the main (single) thread, provided by the browser.⁣
+⁣
+- I now understand what web APIs are and how they support the single thread JS runtime.⁣
+- main resource - https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5⁣
+⁣
+⁣
+**Thoughts** ⁣
+- Take care of your body/listen to your body. Wasn’t feeling 100% there mentally today so did some easy research and reading.⁣
+- Catch and make notes of sentences/phrases/words you don’t really understand. These are ideal to tick off on days when you aren't fully charged.⁣
+- I plan to do more CS stuff at some point to understand the workings of the machines. Helps to understand what is happening on a macro level.⁣
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B-12JzjA6KM/)
