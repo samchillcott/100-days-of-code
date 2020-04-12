@@ -161,3 +161,20 @@ Had a note to read about errors and handling (related to promises) so I read up 
 
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B-12JzjA6KM/)
+
+### Day 13: 12/4/20   
+
+**Today's Progress**: 
+- Node.JS - Learnt about what it is, where it is used and how it sits in terms of JS and popular stacks such as MEAN and MERN. By zooming out and looking at runtime environments, I understand the main use context for JS - something you don’t always get when learning via something like Codecademy. 
+- I can also now see how Modules and npm now sit with JS and node so I have connected a few dots.
+- Module is a file, package is a collection of files and has a package.JSON for the metadata that describes the file or directory)
+- truthy falsy refresher - Mainly used to check if something is undefined, null etc Useful when writing conditionals.
+
+**Thoughts** 
+- Still had a low-level headache (possibly from hay fever) so took it easy again today. I’m still learning though and these “off topic” passive learning days often give aha moments. 
+- I did consider having a day off/rest day but figured I’d do an hour and see how I felt.
+- I’d like to become a full-stack dev at some point and am quite looking forward to trying some back end stuff.
+- I know I haven’t done much “coding” (or building) since I started the challenge but will be getting back into it once I finish off CA and solidify some fundamentals.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B-4X9PhAXLY/)
