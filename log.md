@@ -178,3 +178,20 @@ Had a note to read about errors and handling (related to promises) so I read up 
 
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B-4X9PhAXLY/)
+
+#100DaysOfCode [14/100]⁣
+⁣
+### Day 14: 13/4/20   ⁣
+⁣
+**Today's Progress**⁣
+- Promises - Read all my collated notes from the last few days and it is starting to make more sense.⁣
+- Redid the Promises section on CA then got stuck at where an executor function sits with promises.⁣
+- Main resource - https://www.youtube.com/watch?v=QO4NXhWo_NM⁣
+⁣
+**Thoughts** ⁣
+- The “take it easy” learning I did over the last 2 days has helped me visualise what is happening in asynchronous programming so going back to the code, It makes way more sense as I can visualise “where” each part is going to/from.⁣
+- Taking it steady mentally and physically and a good night’s sleep has fully recharged me and my focus for the week ahead. Listen to your body. ⁣
+- I’m starting to see a theme in how I learn and the difference between understanding the abstract/meta concept (what is going on and why), the terminology(the words used to describe what is going on) and the syntax (used to execute the concept).
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B-691QtgSA0/)
