@@ -195,3 +195,21 @@ Had a note to read about errors and handling (related to promises) so I read up 
 
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B-691QtgSA0/)
+
+### Day 15: 14/4/20   ⁣
+⁣
+**Today's Progress**⁣
+- Promises redo in CA - Making more sense than my initial run but still lots of questions (which I am making a note of).⁣
+- Found a few videos that explained it visually which is what I needed.⁣
+- .then placement - I was getting confused as to why sometimes .then would be tagged immediately after the main function and sometimes on the next line. Turns out both work, the latter making the code more readable. I initially thought these were utilizing different ways to use .then.⁣
+- Tip - always make a note of parts of the course you don’t really get. Then come back to them at a later date and you may be pleasantly surprised it makes sense after you have done some more practice or study.⁣
+⁣
+**Thoughts** ⁣
+⁣
+- I’m sure promises could be better explained with animations (not just graphics or drawing arrows on whiteboards) but I can’t seem to find any anywhere. I kinda get what each part is doing individually but not how they all interact with each other and in what order (constructor, executor, promise, then, catch). ⁣
+- I’m starting to get bored and frustrated with Promises. So tempted to move on to the next stage (async-await) or do something related instead. ⁣
+- Think I will move on to Async Await and Requests soon so I can get some experience actually using Promises and AA (learning in context). I know a large amount of front end work can be about APIs and making requests (consuming promises) so I think the sooner I start actually playing with it, the quicker I can see the concept in action and learn it that way. If not, I can always roll back to the basics.⁣
+- This is my first real “brick wall” that I have stayed to try and climb. The feeling sucks.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B-9hZVnAl-l/)
