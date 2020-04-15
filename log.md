@@ -213,3 +213,19 @@ Had a note to read about errors and handling (related to promises) so I read up 
 
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B-9hZVnAl-l/)
+
+### Day 16: 15/4/20   
+
+**Today's Progress**
+- Promises - tried a few videos coding along and using the console. Still don’t really get what part is connecting to where, and why.
+- reject and resolve when used in the promise constructor aren’t JS keywords, just a naming convention. I think that was where I was getting confused as the names of the functions kept changing and the lack of consistency threw me a little. One of my most used questions while learning JS is “Where is that coming from?”.
+- CA Requests - decided to have a quick look to see if it helps to play with promises using real world examples.
+
+**Thoughts** 
+- As an HSP, tutorials with loud key banging irritate me.
+- I’m really starting to get frustrated (and angry if I’m honest) but I know that’s part of the game. I’m just acknowledging it.
+- I said yesterday I am “hitting a brick wall” and my friend, Alfred, said to  “define the brick wall as a specific question that could be answered specifically” so I have started to make a list. There are quite a few.
+- I get why setTimeout is used in examples to show/create async but that syntax adds a layer (and a load of brackets) of confusion. Surely real world examples would be better?
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B-__VaUAbV2/)
