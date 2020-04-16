@@ -229,3 +229,17 @@ Had a note to read about errors and handling (related to promises) so I read up 
 
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B-__VaUAbV2/)
+
+### Day 17: 16/4/20   
+
+**Today's Progress**
+- Promises - Starting to see the wood from the trees. I think realising the split between promise creation and promise consumption helps. And knowing consuming APIs means you don’t have to create the promise just consume it.
+- Async Await - Been saving this until I ‘get’ promises but it appeared in a tut and can see how it works. AA doesn't really change anything in the background, it still uses promises, it's just an easier way to write asynchronous code as synchronous = syntactic sugar.
+
+**Thoughts** 
+- I’m glad I’m sticking at it. I explained this to my work wife as “I know all the pieces of the jigsaw, I just don’t know how they fit together”. Today I fit a few of them together and realised I was previously trying to connect two pieces that were part of the same puzzle but didn’t fit together.
+- The importance of having a mentor (or at least someone who can talk you through a concept or code) - I spent 2 hours going through Promises from scratch with @voyzan and now I am really starting to fit the jigsaw puzzle pieces together. Without that support I probably would have either spent another 3-4 days on it or moved onto another area. Don’t be afraid to “call in the big guns” if you can’t work it out yourself. 
+- I am super grateful for all those who have offered support since I started this journey. 
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B_DAqTwAMBa/)
