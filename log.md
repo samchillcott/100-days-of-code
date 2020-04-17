@@ -243,3 +243,16 @@ Had a note to read about errors and handling (related to promises) so I read up 
 
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B_DAqTwAMBa/)
+
+### Day 18: 17/4/20   
+
+**Today's Progress**
+- Promises - I’m slowly consolidating all yesterday’s learning and creating a simple guide so I can explain it to myself and others (the rubber duck technique).
+- Constructing a promise - pretty much got this part now. Consuming is what I’ll figure next.
+
+**Thoughts** 
+- I don’t know if it is just how my brain works but this could have been explained way better by separating all the components of promises (creating - executor, promise object, and consuming - then catch etc), explaining how each part works individually then how they all interact with each other and in what order. Nothing I read/watched really did it this way., it just made it way more complicated than I think it needs to be imo. Separate the parts, put them in order.
+- I woke up with a bit of a headache (which is rare for me) and my brain isn’t functioning at all today. I’m looking at the screen but nothing is going in, let alone comprehending it. My mental energy is low. Good sleep will sort me out I know. I have all my jigsaw pieces, just didn’t have the ability to play jigsaw today.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B_FhvffgSo2/)
