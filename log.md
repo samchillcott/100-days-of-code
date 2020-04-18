@@ -256,3 +256,17 @@ Had a note to read about errors and handling (related to promises) so I read up 
 
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B_FhvffgSo2/)
+
+### Day OFF: 18/4/ 20  
+
+**Today's Progress**
+-N/A
+
+**Thoughts** 
+- This is the first full day off with no coding/learning in 2 months straight (including weekends). I’ve been managing ok just doing on average 2-3 hours per day but have had a few headaches lately which I misdiagnosed as hay fever or sunburn. My body (and a few friends and family) has been telling me to give it a break for a day or so. Today I actually did that and it feels good. Much needed. 
+- Woke up with no alarm, walk in nature, no screens until I made a few zoom calls. Will chill for the rest of the evening.
+- I wanted to do an entry because these days are still part of the process and sometimes get overlooked.
+- I may even plan them going forward or keep powering through and listen to the signals more instead of ignoring them and thinking “I’ll just do this one last thing”.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B_IbtB0gbKU/)
