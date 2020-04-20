@@ -281,6 +281,23 @@ Had a note to read about errors and handling (related to promises) so I read up 
 - Identify your cause of stress and acknowledge it. Don’t resist, surprises or fight the emotion.
 
 **Link(s) to work**
-1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B_M-LRSAoGA/)
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B_M-7sPAjlX/)
+
+### Day 19: 20/4/20   ⁣
+⁣
+**Today's Progress**⁣
+- Objects and Classes - Had a chat with my mentor and decided to go back over some other fundamentals. Started using Khan Academy’s Intro to Objects.⁣
+- The difference between initialisation and instantiation. Instantiation is where an object (class instance) is created, Initialisation is when you provide an initial value for a variable. ⁣
+**Thoughts** ⁣
+- I’m going to leave Promises for now and will come back to it shortly. I think I’m probably missing the “obvious” because there are a few gaps in my fundamentals - both in terms of concepts and terminology. I think when I come back to it, it will probably click.⁣
+- I can definitely see the benefit of learning in a traditional setting (such as a school/bootcamp) as you have a route/syllabus and people on hand to answer any qs you have at the time. Learning online/solo can mean you skip over or miss bits more often unless you are hyper-aware and diligent.⁣
+- I’m relaxing a little more in terms of pressure to “bag the hours” in a day.⁣
+- Switching from 60-minute pomodoros to shorter sprints of 25-30 so I still do the same number of hours but have more breaks in between which is more sustainable.⁣
+- I like the KA approach as it is the happy medium between Codecademy and YT tuts where you get exercises but also verbal explanations. It’s cool try different (styles of) resources as they all explain it different ways and some may click more than others depending on your learning style.⁣
+- Called it a day after 2 hours (4x30 mins). I could do more but easing back into it. 
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B_M_3KoAfg0/)
+
 
 
