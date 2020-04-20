@@ -270,3 +270,17 @@ Had a note to read about errors and handling (related to promises) so I read up 
 
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B_IbtB0gbKU/)
+
+### Day OFF: 19/4/20   
+
+**Today's Progress**
+- N/A
+
+**Thoughts** 
+- Another day off due to mild headache still. Realised it was from stress after I spotted a few other symptoms. Did a meditation where I named the emotion as overwhelm. There is so much to learn when it comes to programming. It’s an eagerness and impatience rather than dread or doubt. The pressure I have put on myself is showing up in my body/brain.
+- Identify your cause of stress and acknowledge it. Don’t resist, surprises or fight the emotion.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B_M-LRSAoGA/)
+
+
