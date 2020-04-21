@@ -299,5 +299,18 @@ Had a note to read about errors and handling (related to promises) so I read up 
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B_M_3KoAfg0/)
 
+### Day 20: 21/4/20   ⁣
+⁣
+**Today's Progress**⁣
+- Classes - Refresher on the 2 ways to define a class: class keyword and .prototype⁣
+- Prototype (and how it sits with JS Classes) - Came across this a while back and knew I would go deeper at some stage. ⁣
+- JS classes (introduced in ES6/2015) are syntactical sugar over JS’ prototype-based inheritance.⁣
+- JS is object-oriented rather than class-based⁣
+⁣
+**Thoughts** ⁣
+- OOP - I’ve covered a few areas of OOP and how it is used In JS and now I’m starting to connect a few dots and it is all slowly starting to click.⁣
+- Pomodoros - Enjoying the new 30 min sprints.
 
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B_PaxIPgyAE/)
 
