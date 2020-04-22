@@ -314,3 +314,15 @@ Had a note to read about errors and handling (related to promises) so I read up 
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B_PaxIPgyAE/)
 
+### Day 21: 22/4/20   ⁣
+⁣
+**Today's Progress**⁣
+- Constructor function - consolidated my notes and now comprehend what it does and where it sits with classes (and promises - which I will revisit soon). Also figured out how this gets used in a constructor: “The name property of this object is equal to whatever gets passed into the constructor function” (the argument passed in is the value/second part of the key-value pair). ⁣
+- Object Inheritance + prototype chain - first look. Will go in over the next day or so.⁣
+⁣
+**Thoughts** ⁣
+- I’m feeling strangely scared of returning to promises because I know if it still doesn’t click, I’ll get pissed off again. Kind of a dilemma - to progress to AA and requests I will have to go at promises again but if I do and I get annoyed again, I’ll lose motivation and momentum (albeit temporarily).⁣
+- I wish I would have started with FreeCodeCamp from day 1. Hindsight is a wonderful thing but although CA looks aesthetically cooler and the free version (without the projects) can probably be completed quicker (after all it is an “Introduction to” JS), FCC does seem more comprehensive and complete. 
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B_SE0kSAvgM/)
