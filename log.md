@@ -326,3 +326,19 @@ Had a note to read about errors and handling (related to promises) so I read up 
 
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B_SE0kSAvgM/)
+
+### Day 22: 23/4/20   
+
+**Today's Progress**
+- Prototype - more learning on what they are.
+- When to use prototype - If you plan to have more than one object that will share a method, you should place that method(s) on a prototype of those objects (general rule)
+- Why use prototype - 1. DRY coding - not repeating the method across multiple objects 2. Ability to manipulate a single object for multiple instances (make a change and affect several objects at once). 3. Reduce memory requirements.
+- Array methods - I now know why these methods are accessible (built-in) because each new array is a new instance of Array which has access to the Array.prototype.
+
+**Thoughts** 
+- Going somewhat off topic but prototypical inheritance is the basis of JS and it was on my list of things to learn anyway.
+- Having a better understanding of creating objects/instances will help me when I go back to promises.
+- I rested well yesterday and feel almost human again. I think the stress was preventing me catching up on my sleep debt. 
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B_Umsaygb1T/)
