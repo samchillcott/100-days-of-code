@@ -342,3 +342,18 @@ Had a note to read about errors and handling (related to promises) so I read up 
 
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B_Umsaygb1T/)
+
+### Day 23: 24/4/20   ⁣
+⁣
+**Today's Progress**⁣
+- Promises - Tried FCC ES6 section. Easy. Wtf. Lol. Re did CA promises again and it's making way more sense now.⁣
+- Turning syntax into words - For example, = () => {  translates to⁣
+“is/a function/that does/this bit of code”. This little tip helps me decipher and create syntax a little easier now.⁣
+⁣
+**Thoughts** ⁣
+- I still don’t 100% get exactly what each part of the syntax is doing/how it works with each other (I do get the general principle and the terminology) but I am moving on. I have spent possibly too long trying to ‘get’ something which is rather small in the grand scheme of things (and now superseded by async-await anyway). I think heading back to building and requests may help this finally click. I’m allowing myself to leave this temporarily knowing it will come back in the future (how ironic) and by then, I’ll have a better grasp of what is going on.⁣
+- I think I was struggling because I didn’t have full comprehension of creating objects, object composition and using functions as arguments (functions within functions). Surely these are basics though right? Yeah, and I ‘got’ them at the time I first came across them which was weeks ago, but just forgot them. So it shows you can ‘know’ the stuff but until it is drilled into your memory, you will struggle.⁣
+- Monitor tiredness - I think it’s safe to say if I am shouting and swearing at code then I’m tired and it’s time to leave it for the day. When I have full capacity it’s more of a “hmm, what’s happening there?” thought in my head.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B_XM8yAAous/)
