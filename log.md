@@ -357,3 +357,17 @@ Had a note to read about errors and handling (related to promises) so I read up 
 
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B_XM8yAAous/)
+
+### Day 24: 25/4/20   ⁣
+⁣
+**Today's Progress**⁣
+- React and a return to frameworks - Doing another React tut for 3 reasons. 1 - I’m bored of promises and want to do something more fun/exciting to keep momentum up. 2 - it will highlight the fundamentals I still need to learn. 3 - refresh my knowledge of frameworks which I started before this challenge.⁣
+- React refresh - Really get what components and props are now. Other areas which are now familiar include modules/import/export, destructuring, methods and dot notation.⁣
+⁣
+**Thoughts** ⁣
+- Going back to my React notes from a month ago, I see I was struggling with terminology and the “talk of objects and classes still kinda confuses me”. Not any more, the last month of drilling the basics has really helped. I can understand most of what a basic react app is doing including most of the syntax. ⁣
+- I do actually enjoy learning theory but have missed actually tinkering and playing about (actually coding) and getting realtime feedback.⁣
+- Having my google doc notes, a YT tut, localhost/live server and VS code open on a MacBook Air 11 is a bit of a struggle. Will be looking at getting a second screen once I settle down next. The 11” has served me amazingly well for travel and coaching but is less practical for (long hours of) coding.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B_ZyT51A-V0/)
