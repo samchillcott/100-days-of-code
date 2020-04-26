@@ -371,3 +371,23 @@ Had a note to read about errors and handling (related to promises) so I read up 
 
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B_ZyT51A-V0/)
+
+### Day 25: 26/4/20   ⁣
+⁣
+**Today's Progress**⁣
+- State in React - setting and changing state and toggling between states using ternary operators.⁣
+- .map - Could do with a refresher on iterators⁣
+- Pushing to GitHub using VSCode - creating and syncing repos using the terminal. Getting head around remote and local repos and how to connect the code on your machine to the repo online.⁣
+- Git terminology: ⁣
+	- Stage = “Ready”⁣
+	- Commit = “Set”⁣
+	- Push = “Go”⁣
+⁣
+**Thoughts** ⁣
+- Steady day but happy to be back in React.⁣
+- The connection between Git, GitHub, GitHub Desktop and VSCode was something I hadn't got my head around until today. As someone with mild OCD, it’s nice to know what is being saved where.⁣
+- As much as I like GUIs, I think in this case, it will be better for me in the long term to be comfortable doing git commands in the terminal. 
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B_cbNZjASHk/)
+2. [GH Repo - projectreact](https://github.com/samchillcott/projectreact)
