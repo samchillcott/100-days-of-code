@@ -391,3 +391,22 @@ Had a note to read about errors and handling (related to promises) so I read up 
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B_cbNZjASHk/)
 2. [GH Repo - projectreact](https://github.com/samchillcott/projectreact)
+
+### Day 26: 27/4/20   ⁣
+⁣
+**Today's Progress**⁣
+- React using visual metaphors - An IG post by @angelaa.dev I read yesterday mentioned using metaphors to explain React. The metaphors and visuals are by @maggieappleton and they are amazing. Link below:⁣
+- https://bit.ly/2S9mi4u⁣
+- Started Dev Ed Recipe app tut which incorporates React, API requests (using async-await) and useEffect.⁣
+- Hooks - They let you use state and other React features without writing a class. 	If you’re familiar with React class lifecycle methods, you can think of useEffect Hook as componentDidMount, componentDidUpdate, and componentWillUnmount combined.⁣
+- async-await - The syntax and logic here looks straight forward. Although I still haven’t fully got my head around promises (what actually goes on under the hood), on the surface, async-await looks way easier to comprehend.⁣
+- Emmet for React in VSCode - imr gives you “ import React from ‘react’ “ and exp gives you “ export default “. Love a bit of Emmet. If you don’t know about it, go check it out to save you many, many keystrokes.⁣
+⁣
+**Thoughts** ⁣
+- As Maggie mentions in her slides, a lot of programming is explained in walls of text which doesn’t always help, especially if people have different learning preferences. What Maggie does is something I was crying out for when I was learning promises.⁣
+- No Wireless - I’m experimenting to see if the Bluetooth on my new headphones is what is causing/contributing to my mild headaches so I’m using the cable. It may also be from the headphones gripping my head or even the ANC so am monitoring different combos.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B_fUT8cgaoI/)
+
+
