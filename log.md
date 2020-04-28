@@ -409,4 +409,22 @@ Had a note to read about errors and handling (related to promises) so I read up 
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B_fUT8cgaoI/)
 
+### Day 27: 28/4/20   ⁣
+⁣
+**Today's Progress**⁣
+- npm start - Spent a while trying to start up yesterdays tut. Still don’t really get npm and folder structure enough to figure out why it won’t start. Something to do with not finding the package.json. Deleted a bunch of files and folders and probably made it worse.⁣
+- Created a new app from scratch and copied the code back in. Good practice to get used to setting up React. Also noted last creation I neglected to add the . to create-react-app which could have caused an issue.⁣
+- State - change the state object to change how the app looks. If anything in the state changes, the app should refresh to reflect that new reality. This is what React does when state is changed: it re-renders the entire app.⁣
+- I fully get about 75% of the mechanics of this app so it has highlighted some grey areas (where I get what is going on but not the syntax and exactly what is happening under the hood). So..⁣
+- Vanilla areas to brush up on - doing a few React tuts has highlighted a few (minor) areas to learn a bit more about such as .map, spread operator, async-await and events & handlers.⁣
+- React areas to brush up on - props, hooks (state, effect, ref) and keys/UUID.⁣
+⁣
+**Thoughts** ⁣
+- I’m quite organised when it comes to data organisation and it irks me not knowing what should go where and having files that can be deleted that take up space.⁣
+- I’m slowly comprehending all the lines of code in a basic react app. Doing a few more tutorials and some reading on the areas to brush up on (mentioned above) should get me to a decent level of understanding and prep me for creating my own (basic) app I can use for my portfolio.⁣
+- Another good day in the bag. Not box.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B_hkthAADhg/)
+
 
