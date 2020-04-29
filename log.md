@@ -427,4 +427,18 @@ Had a note to read about errors and handling (related to promises) so I read up 
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B_hkthAADhg/)
 
+### Day 28: 29/4/20   ⁣
+⁣
+**Today's Progress**⁣
+- Reading up on state in React. ⁣
+- Hooks Traversy tut - Hooks enable state to be used in functional components. Previously you had to use a class component to manage state and functional components were “stateless components”.⁣
+⁣
+**Thoughts** ⁣
+- I quite like the idea that these languages evolve. The new features that get added can potentially be a pain to learn but I think it by far outweighs the pain of doing things the old way. All the features are there to make our life easier so bring it on.⁣
+- Found some old notes of mine and found the react snippets exertion for VS Code shortcuts. rfc will create boilerplate for react functional component, takes name from name of file + includes import react. ⁣
+- ES7 React/Redux/GraphQL/React-Native Snippets Extension⁣
+- I thought the Traversy vid would be more dialogue but turned out to be another todo app tut. Decided to do it as doing is usually a better way to learn. The same grey areas are cropping up again but will brush up over the next few days.⁣
+- Yet another Todo app but I can see how these are great practice for adding, updating and removing elements.
 
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B_kEGQ9gpai/)
