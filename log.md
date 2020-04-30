@@ -442,3 +442,22 @@ Had a note to read about errors and handling (related to promises) so I read up 
 
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B_kEGQ9gpai/)
+⁣
+### Day 29: 30/4/20   ⁣
+⁣
+**Today's Progress**⁣
+- Traversy hooks/Todo App - Finished off app and uploaded to GH using just the terminal and not GH desktop.⁣
+- Grey areas - Quite a few small parts of the code I still don’t 100% get so starting to work through my “To Learn” list.⁣
+- Persistent data - Stored in actual format and stays there versus in-memory where you have it once, close the file and it’s gone. You can retrieve persistent data again and again. In these app tuts, we are not persisting the data - it isn’t getting stored in a database anywhere or local storage.⁣
+- Keys in React lists - Keys help React identify which items have changed (added/removed/re-ordered). To give a unique identity to every element inside the array, a key is required. ⁣
+
+**Thoughts** ⁣
+- Forms - @Vickysdailystandup suggested I get good at forms which are a large part of websites. I could do with a refresher as I kinda sped through basic HTML many months ago.⁣
+- Prediction - One thing I enjoyed when learning CSS and following tuts was to pause the tut and check the reference/final code (on live server) and try and predict how to re-create that section of the layout before they run through it on the vid. I’m struggling to know where to start when it comes to JS so that’s highlighting my current level. Reminds me of my Spanish language ability - I can understand about 90% of the content when it is given to me (listening or reading) but when it comes to proactively creating content (speaking) I can only do about 50%. ⁣
+- Local storage - I always had the question “what happens to all the data we fill out or submit? Where does it go?”. As I’m getting closer to learning backend it is slowly starting to make sense. When I first came across DOM manipulation I thought it was pointless as it gets reset each time. Now I have a basic grasp of databases and local storage, I can see what can happen with our data/events.⁣
+- I was always curious why my Prettier extension wasn’t working. Turns out since I’ve been using live server extension (which updates automatically without the need to manually save) I haven’t been manually saving (cmd S) as much so it's nice to see wonky indentations and bulks of text become nice and neat.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B_m3lg3A0Fm/)
+2. [GH React Hooks Todo App](https://github.com/samchillcott/react_hooks_todo)
+
