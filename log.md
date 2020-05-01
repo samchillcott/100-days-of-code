@@ -461,3 +461,27 @@ Had a note to read about errors and handling (related to promises) so I read up 
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B_m3lg3A0Fm/)
 2. [GH React Hooks Todo App](https://github.com/samchillcott/react_hooks_todo)
 
+### Day 30: 1/5/20   
+
+**Today's Progress**
+- DOM refresher - Now I’ve done a fair bit of JS and OOP I understand what the DOM is and how we can use it way more than when I actually learned DOM manipulation a few months back. 
+- Virtual DOM - further understanding of what is happening under the hood. The virtual DOM makes 2 copies of the original DOM. When something gets updated, it compares the 2 virtual copies, finds where the update was and then updates the appropriate node/part of the original DOM.
+- Pre-React (or when not using a similar system) if one thing changed on a page, the whole page (as opposed to a component within the page) needed a re-render which was slower.
+- Its more that the updating and rendering of the DOM is inefficient, not necessarily the DOM itself.
+- Root - document.getElementById('root') - root is the root html element of the DOM tree. getElementByID() is a method on the document object.
+
+**Thoughts** 
+- There is a part of me that always wants to understand every element of every concept but sometimes I just don't need to know to progress. I could learn it but it will slow my journey progress down. I'd like to catch a remind myself to leave it and I can come back if I need to. Most of the time I don't!
+- OOP - I can see how the transition from CSS to JS is a big shock for many (myself included). Even dabbling in basic JS functionality on a site involves concepts such as OOP which make no sense at the time. What is this dot? What is a document? What’s with the brackets? etc.
+- I definitely prefer visuals/metaphors to explain the concepts
+Involved in programming.
+- Verbose - One of the videos I watched said that React was verbose (using or expressed in more words than are needed = more code) which is exactly what I picked up on early on. “Seems a loot of code to do such simple things” but they explained that doing it this way is beneficial because it forces you to think through everything so when you come back to it a month later you can understand what you wrote.
+- .txt > .rtf - I've been using mac's TextEdit app to write these notes but was getting annoyed with crazy formatting when I would paste in stuff. Converting to .txt (make rich text) has solved that issue. And it feels like I am in the terminal!
+
+**Questions**
+- Are the things we import at the top (React and ReactDOM) objects, functions or both?
+- Is the ReactDOM that we import the virtual DOM? (Pretty sure this is the case). Or is the virtual DOM part of the React import? 
+- How do the 3 main objects work together? (document/DOM, react and react DOM)
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B_pThAegWew/)
