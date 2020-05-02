@@ -485,3 +485,25 @@ Involved in programming.
 
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B_pThAegWew/)
+
+### Day 31: 2/5/20   ⁣
+⁣
+**Today's Progress**⁣
+- Array methods/Iterators refresh using CA. These are built into JS.⁣
+- .forEach() - will execute the same code for each element of an array. ⁣
+- .map() - Used often in React. works in a similar manner to .forEach()— the major difference is that .map() returns a new array.⁣
+- .filter() - returns an array of elements after filtering out certain elements from the original array. The callback function for the .filter() method should return true or false depending on the element that is passed to it. The elements that cause the callback function to return true are added to the new array.⁣
+- .findIndex() - calling it on an array will return the index of the first element that evaluates to true in the callback function.⁣
+- .reduce() method returns a single value after iterating through the elements of an array, thereby reducing the array⁣
+⁣
+**Thoughts** ⁣
+- Sunny Saturday so decided to take on something pretty chill.⁣
+- Still don't get the .map code when it is used in React. Will have to gen up on keys, indexes, destructuring and iterating in JSX which was the plan anyway.⁣
+- Use it or lose it - I've covered so much over the last 4 months that there is no way I can contain it all in memory. As I am not regularly working with what I am learning either via a job or project, a lot of it falls away over time. This isn't a problem per se as I can easily read my notes and it will come back instantly but I can see the importance of using what you learn until it becomes muscle memory.⁣
+- Headaches - I took a week off from my wireless headphones and was still getting super mild, but constant headaches. I have made a list of suspects that are causing them and my next one to check is eye strain caused by increased mobile phone usage. I engage a lot with the IG dev community and cheer on others doing this challenge but I notice I do hold my screen quite close to my face. Will monitor for the next few days. They aren't painful but more of a pressure/tension in the muscles on the scalp (as opposed to something that feels like its hurting the brain itself like a migraine would).⁣
+⁣
+**Questions**⁣
+- Do iterators always have to return (use the return keyword)? CA ones do, react/JSX ones don't seem to.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B_r11V9Al2n/)
