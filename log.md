@@ -507,3 +507,18 @@ Involved in programming.
 
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B_r11V9Al2n/)
+
+### Day 32: 3/5/20   
+
+**Today's Progress**
+- Destructuring - extract data from an object and assign to new distinct variables aka destructured assignment. 
+- Destructuring in React - keeps components cleaner and easier to understand. Provides a more concise way to write your props. Most of the React components you see in the wild will not take an argument called “props”. Instead, they use ES6’s destructuring syntax to pull the values out of the props object. This saves you from having to write props.whatever all over the place, and makes it clear, right up top, which props this component expects.
+- There are 2 ways to destructure props in a functional component. 1 - in the function parameter itself. 2 - in the function body.
+
+**Thoughts** 
+- I think one needs to fully understand props in React before destructuring fully makes sense. 
+- I like that feeling when I have scattered notes and consolidate them all into one section.
+- Headaches - I don't think it's from the noise cancelling headphones, I think its from clenching my jaw (done unconsciously while awake and asleep due to stress - bruxism). I think maybe doing more meditation may reduce the root cause.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B_ub0FYg_eZ/)
