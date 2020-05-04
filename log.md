@@ -522,3 +522,23 @@ Involved in programming.
 
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B_ub0FYg_eZ/)
+
+### Day 33: 4/5/20   
+
+**Today's Progress**
+- Rendering - React DOM takes care of updating the DOM to match the React elements and only gets imported in the index.js file. It is a library on an object and has a render function. Think of it as taking your html file (file loads in the browser), finding element id root (.render() called) and replacing it with everything that is inside app (find and replace).
+- export default can be done just before the function or at the bottom of the file. There is no difference, pick one and stay consistent. I prefer at the bottom of the file (rfce as opposed to rfc using snippets).
+- Destrucuring in action - I can now spot both array and object destructuring in the code and understand why this is used.
+- Props - All of our components are going to have props that we can pass to them and we pass them just like we pass attributes to an html element <TodoList todos={todos}/>. Starting to see what is getting passed where and what is being done within each component. I'm starting to make sense of the code itself, not just the meta concept.
+
+**Thoughts** 
+- Doing is probably the best way to learn. Rather than read about some of the inner workings of React, I thought doing another tut (which will no doubt demonstrate the concept I am unsure about) would help put that learning in context and give me something to show for the learning. I want to be building more and getting into that habit.
+- Noticeable progress - Revisiting my questions and notes from the last few React tuts and I can now answer a lot of the questions I had. It is a cool way to measure progress and validation on the hours spent trying to get head around concepts.
+- Stick to the main concepts - I almost started today looking at keys in react and I would have spent a good 2-3 hours understanding why they are used and how. However, in the grand scheme of things, that didn't seem like an efficient use of time. I'm now catching myself when I "go in on" comparatively small concepts for a large amount of time. Worry about those "smaller" details if/when I need them - and I don't necessarily have to know everything about them, just how to implement to get the app working.
+- I wish someone would animate what is going on in terms of component interaction, state and props (data flow). I get it now but again, it could have been explained so much easier with an animation.
+- Another ToDo list - buuut it's cool to see how different tuts approach them and if I keep hammering them (with some studying on the grey areas alongside), eventually it will all click. 
+- Today's tut was called "React in 30 mins" - I spent 2.5 hours getting to 12 mins in to the video. I'm thoroughly comprehending each stage now though.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B_xQaibgH4s/)
+2. [GH React React in 30 Todo App](https://github.com/samchillcott/react_in_30)
