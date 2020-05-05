@@ -542,3 +542,22 @@ Involved in programming.
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B_xQaibgH4s/)
 2. [GH React React in 30 Todo App](https://github.com/samchillcott/react_in_30)
+
+### Day 34: 5/5/20   
+
+**Today's Progress**
+- useRef - React hook that allows us to reference elements inside of our html eg the todo item text.
+- Spread operator - … put in front of an array or an iterable object where we want to spread the array into its individual components. Kinda like taking the peas out of the pod.
+- UUID (universally unique identifier) - library that creates random keys so they don't get duplicated/repeated. React likes to know which key/item (in a list for example) to update otherwise it will update the whole list which is less efficient.
+- Side Effect - A "side effect" is anything that affects something outside the scope of the function being executed. These can be, say, a network request, which has your code communicating with a third party (and thus making the request, causing logs to be recorded, caches to be saved or updated, all sorts of effects that are outside the function). Functions that execute without side effects are called "pure" functions: they take in arguments, and they return values. Nothing else happens upon executing the function.
+- useEffect - Reach hook that lets you perform side effects in function components. In this case it was to persist the data across page reload by using local storage (and JSON).
+- In react, you should never modify a state variable, you should always create a copy before modifying it and use that copy to set the new state.	
+
+**Thoughts** 
+- Importance of documentation - Installing UUID like in the tut caused a compilation error (mainly because it is from October 2019). I checked my notes from last time I had this issue in a previous tut and tried that way which also didn't work. Remembered to check the actual documentation in npm and the answer was right there. Obviously. Go to the source.
+- Too many VSCode extensions - As much as I love indent rainbow, I had to disable it because there was just too much going on in complex (for me) areas of code and the colours (along with bracket colorizer) were actually a visual hindrance.
+- I definitely prefer tutorials where the instructor is engaging and amusing. My personal fav is Dev Ed (@developedbyed).
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B_zno7QgFL0/)
+2. [GH React React in 30 Todo App](https://github.com/samchillcott/react_in_30)
