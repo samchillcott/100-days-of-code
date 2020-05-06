@@ -562,3 +562,19 @@ Involved in programming.
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B_zno7QgFL0/)
 2. [GH React React in 30 Todo App](https://github.com/samchillcott/react_in_30)
+
+### Day 35: 21/5/20   ⁣
+⁣
+**Today's Progress**⁣
+- Revisiting old React projects - checking I get the code and pushing to GH.⁣
+- git push -u origin master - will push your changes to the remote server. "master" refers to master branch in your repository. master is the default local branch in GIT. Origin refers to the source repository from where it was cloned.⁣
+- <React.StrictMode> StrictMode is a tool for highlighting potential problems in an application. Like Fragment, StrictMode does not render any visible UI. It activates additional checks and warnings for its descendants.⁣
+⁣
+**Thoughts** ⁣
+- The first react tut I did (over a month ago) was React JS Crash Course by Traversy. When going back to the code today I can already see how much React has changed since this tut was made (Jan 3 2019). For example, class components instead of function components (with state), no use of useState hooks for state, importing PropTypes, component did mount etc instead of useEffect hooks, a lot of this., no/minimal destructuring, (promises instead of async await). A lot of the practices have now been replaced and I'm quite chuffed I can spot them. I'm also not surprised I got rather confused as some of it is quite long-winded. But getting confused here helped me understand OOP and dot notation a lot better. I love how languages and code are always evolving to make more efficient syntax and processes. Obviously the "old" code is still relevant as not all code bases will be using the latest so it has been good to see it in action and see how I could potentially do it "better".⁣
+- Revisiting a tut I did a week ago which was more modern (Dev Ed Recipe API), I can understand about 90% of the code now. Made a note of the 10% I don't quite get fully and brushed up. ⁣
+- Spent 2 hours with my mentor @voyzan where we went over the 10%, covered recent topics, learnt new ones and plotted my next steps. I love having these check-ins because it helps measure my progress, I get access to a wealth of knowledge and experience and I get excited each time I leave with a new list of things to learn/build. And the theme over the coming weeks will be building.⁣
+- Headaches - Still a super mild tension (not enough to affect my mood or desire/ability to work). Next culprit to test is extended use on mobile where I hold the phone close to my face. Could be eye strain so will lower phone/IG use over the coming days.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B_2TEiggP9T/)
