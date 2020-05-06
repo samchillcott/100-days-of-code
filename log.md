@@ -426,6 +426,7 @@ Had a note to read about errors and handling (related to promises) so I read up 
 
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B_hkthAADhg/)
+2. [GH Repo - recipe app] (https://github.com/samchillcott/react_recipe_app_2)
 
 ### Day 28: 29/4/20   ⁣
 ⁣
