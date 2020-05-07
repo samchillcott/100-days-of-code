@@ -426,7 +426,7 @@ Had a note to read about errors and handling (related to promises) so I read up 
 
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B_hkthAADhg/)
-2. [GH Repo - recipe app] (https://github.com/samchillcott/react_recipe_app_2)
+2. [GH Repo - recipe app](https://github.com/samchillcott/react_recipe_app_2)
 
 ### Day 28: 29/4/20   ⁣
 ⁣
@@ -578,3 +578,31 @@ Involved in programming.
 
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B_2TEiggP9T/)
+
+#100DaysOfCode [36/100]⁣
+⁣
+### Day 36: 7/5/20 ⁣
+⁣
+**Today's Progress**⁣
+- Tidying up Dev Ed Recipe React App⁣
+- "React Hook useEffect has a missing dependency" - Had a go a trying to solve this compilation warning but couldn't so took the advice of the terminal and added // eslint-disable-next-line. This kinda solved it but the development build is not optimised. ⁣
+- Some CSS blocks not working on app.css but think it was just because I hadn't saved! Cmd S on the regular from now on.⁣
+- Tried to add a function to round up the calories number and succeeded. {{calories} = Math.round(calories)}.⁣
+- Rearranged the recipe card layout.⁣
+- “?” in URL - acts as a separator, it indicates the end of URL resource path and the start of query parameters. For GET request types, the query parameters are appended in URL itself and hence to differentiate the URL path and parameters “?” symbol is used.⁣
+- fetch() - Fetch API was introduced around the same time as JavaScript ES6. It is a much cleaner API as opposed to the old XMLHttpRequest (XHR). The simplest use of fetch() takes one argument — the path to the resource you want to fetch — and returns a promise containing the response (a Response object). The response object is just an HTTP response, not the actual JSON. To extract the JSON body content from the response, we use the .json() method. ⁣
+- Cloned a repo to my machine using VSCode for the first time. ⁣
+⁣
+**Thoughts** ⁣
+- I like tweaking existing code to add new features and to style it to my liking. Obviously the main legwork has already been done but eventually, I'd like to be able to build from scratch without a tut to follow.⁣
+- I've always been that guy who sends in feature requests so I'm excited to potentially have the ability to create these new features myself (or even my own app with those features) without having to wait/hope the company creates the feature.⁣
+- Understand the importance of committing each tweak individually. I committed a few at a time then realised I'd messed something up and took me a while to find which line of code was causing it and rollback.⁣
+- Grasp of CSS layouts and positioning - been a while since I've played with CSS so struggling to remember grid and flex solutions and then how to make the content sit nicely in the card. I like uniformity so would like to master the skills here. Working out how I want it to look like first, then working backwards from there is my approach.⁣
+- I think as the components are sometimes individually styled it makes it ever so slightly more complicated than having one main .css file.⁣
+- Displaying API data - as with the above, I'd like to be able to display what I am fetching from the API in a well-styled manner because I shall be doing a lot of API work over the coming weeks.⁣
+- First look at fetch - can see it is a method that can be/is usually used in conjunction with either Promises or Async Await. I still haven't gone in on AA but will do soon.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B_4rufGA_qa/)
+2. [GH Repo - recipe app](https://github.com/samchillcott/react_recipe_app_2)
+
