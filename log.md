@@ -606,3 +606,19 @@ Involved in programming.
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B_4rufGA_qa/)
 2. [GH Repo - recipe app](https://github.com/samchillcott/react_recipe_app_2)
 
+### Day 37: 8/5/20 
+
+**Today's Progress**
+- .fetch() - Codecademy exercise on GET requests using promises: setting them up and also working with the info returned with the promise.
+- fetch POST Requests - the initial call takes two arguments: an endpoint and an object that contains information needed for the POST request (settings object). The rest of the request is identical to the GET request.
+
+**Thoughts** 
+- Codecademy Requests module has 2 sections (AJAX/XHR and ES6/fetch/Async). Old me would have spent a while on section 1 but I decided to start with section 2 as it is more relevant and efficient. I'm teaching myself to learn "just in time" and to be happy missing out parts instead of trying to tick everything off the list. I can always come back IF I need it.
+- Finally seeing how api, fetch api, async, promises and react all sit together.
+- Promises - As annoying as it is (my OCD is wanting to be able to compartmentalise all of the code blocks), I like the challenge of following the data flow with all these callbacks, functions within functions and .thens. I would probably be better drawing it out rather than trying to picture it all in my head.
+- F@@king () and {} everywhere. I wonder if there is an extension which can colour code blocks, not just the brackets? Maybe a background colour and the keywords/text still get their normal colours.
+- It is nice to know some of requests is using boilerplate code. Makes it a bit more uniform and easier to learn.
+- My head physically hurts from today's learning. I hate promises and chaining! I'm looking forward to Async Await that makes this whole process/syntax much easier.
+
+**Link(s) to Work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B_7PBbcgois/)
