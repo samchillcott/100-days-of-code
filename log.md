@@ -622,3 +622,19 @@ Involved in programming.
 
 **Link(s) to Work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B_7PBbcgois/)
+
+### Day 38: 9/5/20 
+
+**Today's Progress**
+- async GET and POST requests on CA. Practice with API docs, endpoints and query parameters.
+- async await - ES8. The async await syntax is syntactic sugar— it doesn’t introduce new functionality into the language, but rather introduces a new syntax for using promises and generators. Both of these were already built in to the language.
+
+**Thoughts** 
+- Black box - Don't worry about having to know what goes on inside the black box, just know how and when to use it and enjoy the abstraction and the fact you don't really have to know.
+- Have enjoyed looking at endpoints and can see the potential to do some interesting stuff with requests.
+- I love AA, its not the concept of promises I didn't like, just the bloated, Russian doll type syntax of the pre ES8 days.
+- "View solution" in CA gives you the answers to the whole exercise instead of the specific question within the exercise. "Stuck on question 1? Ok we'll give you the answers for questions 2-12 as well!" NO, ffs. Needless to say I have sent a feature request.
+- Feel confident in all the frontend stuff I've learned so far, next week I'll start a project that implements that knowledge.
+
+**Link(s) to Work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B_9-hpCgpkQ/)
