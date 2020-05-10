@@ -638,3 +638,15 @@ Involved in programming.
 
 **Link(s) to Work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/B_9-hpCgpkQ/)
+
+### Day OFF: 10/5/20 ⁣
+⁣
+**Today's Progress**⁣
+- N/A⁣
+⁣
+**Thoughts** ⁣
+- Well-timed ("finished" CA JS syllabus and knew I wanted a day watching UFC) and well-earned break. Doing stuff I enjoy and some physical exercise out in the countryside. Not watching or reading anything learning-based. Feel relaxed and energized for the next phase.⁣
+- I do miss playing football. I don't need the motivation to play, I look forward to it. With running, I enjoy it when I'm out there with the music on but it takes a bit more internal convincing to kit up and go sometimes. Especially after a few hours of coding.
+
+**Link(s) to Work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CAA5hV-A7V5/)
