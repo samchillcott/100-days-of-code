@@ -650,3 +650,30 @@ Involved in programming.
 
 **Link(s) to Work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CAA5hV-A7V5/)
+
+### Day 39: 11/5/20 ⁣
+⁣
+**Today's Progress**⁣
+- Project planning - Sorting notes, creating a document and plan of attack.⁣
+- Registered with API account and got key.⁣
+- Read documentation.⁣
+- Initialised React App.⁣
+- Started development. ⁣
+- MVP components - Components need to be Capitalized.⁣
+- Set up getWeather function and set to imperial/Celsius.⁣
+- Created data table for what I need to display.⁣
+⁣
+**Thoughts** ⁣
+- Excited by building but a little nervous about doing it "on my own" but I know it is the best way to learn and I can always follow a template from a similar tutorial if need be.⁣
+- I'm already thinking of extra features I can add to demonstrate other areas of knowledge and utilise other libraries or code but I want to keep it simple at the moment and get an MVP up and running. The icing can come later.⁣
+- Trying to do as much of this as I can on my own without having to refer to the Recipe app which I can easily refactor.⁣
+- Spent an abnormal amount of time selecting the "best" images to use as backgrounds. Reminded myself to keep to MVP - get it up and running first then tweak later. Any image will do!⁣
+- I could spend a few days trying this on my own but why not just go straight to the template and refactor the recipe App. I'm ok with doing this because I understand all the code and why build from scratch if I don't have to. Efficiency. The more apps I make, the less I will need to refer to a template.⁣
+- When building yourself you encounter errors you wouldn't get following a tut. This forces you to debug (by googling and using console) on your own which is great practice.⁣
+- Even if you use a template, you still need to make sure it all fits and works together with your imported code. It's not just a simple copy and paste when it comes to apps. Understanding code blocks helps (a few missing closing brackets caused my first few errors).⁣
+- Stripped it back to just get the weather component showing in the app. ⁣
+- Can focus for longer because I'm excited by building/solving and it is less mentally taxing than learning a new concept.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CADMxyHgdpv/)
+2. [GH Repo - React Weather App Project](https://github.com/samchillcott/sam_react_weather_app)
