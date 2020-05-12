@@ -677,3 +677,25 @@ Involved in programming.
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CADMxyHgdpv/)
 2. [GH Repo - React Weather App Project](https://github.com/samchillcott/sam_react_weather_app)
+
+### Day 40: 12/5/20 
+
+**Today's Progress**
+- Grabbing data from retrieved object to display in the component.
+
+**Thoughts** 
+- Struggled to connect my returned object to views.
+- Struggled to connect and access subsets (objects within the fetched object) to views.
+- Realised I didn't need .map as I am only fetching 1 object, not multiple hits like in the recipe app.
+- I must be missing something obvious (to the trained eye). The object is there, I just can't access the parts I want without getting an error.
+- I feel like watching (not following) a weather API app would be cheating but I have spent a few hours trying to display the data and can't figure out why some of it isn't showing. In the real world, there is no cheating, it's "what have other people done to get this working?" and then use that data to get yours working. I'm going to do this tomorrow, I've given it a good shot on my own today. Spending more time going round in circles will be inefficient.
+- It is dawning on me how much I can't understand what the error messages are saying. This will be good practice for debugging. The clues are there, I just can't understand them all yet.
+- My first real frustrating session. 2-3 hours on one bug and still not solved. Sure there will be more times like this in the future and this is my first taste. Sucks balls.
+
+**Questions**
+- Why is temp={weather.main.temp} giving this error "Cannot read property 'temp' of undefined"? 
+- If I change it to temp={weather.temp} it doesn't give an error (it should imo because .temp isn't a direct property on the weather object) but also doesn't display anything in the component?
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CAFjPrYANnN/)
+2. [GH Repo - React Weather App Project](https://github.com/samchillcott/sam_react_weather_app)
