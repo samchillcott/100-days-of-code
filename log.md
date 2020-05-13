@@ -699,3 +699,25 @@ Involved in programming.
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CAFjPrYANnN/)
 2. [GH Repo - React Weather App Project](https://github.com/samchillcott/sam_react_weather_app)
+
+### Day 41: 13/5/20 ⁣
+⁣
+**Today's Progress**⁣
+- Play with React dev tools in chrome and can see most of my props in the Weather component are undefined (except for city) so it looks like the object works, the variables are set up ready but the data I need isn't getting passed to the component correctly atm.⁣
+- Watched a weather app tut to find how they were displaying their data and found a workaround (typeof ternary operator) which explained the errors I was getting yesterday. I can now access all parts of the response and have my data displaying within the component. I now have an MVP.⁣
+- Learnt what Unix time was (how sunrise and sunset data is measured in the open weather API).⁣
+- Unix time is the number of seconds that have elapsed since the Unix epoch, which is the time 00:00:00 UTC on 1 January 1970. It's most commonly used to create a running total of seconds when interacting with computers.⁣
+- Got Unix into time format but is an hour out due to BST.⁣
+⁣
+**Thoughts** ⁣
+- I spent most of yesterday in a mood because I was stumped with the app progress. I'd like to be able to detach my mental state from the coding sessions in the future. ⁣
+- I still kinda feel like I'm cheating but I also know by copying, I am still learning.⁣
+- I don't exactly get some of the code I am bringing in but at the end of the day, the app works. I know later down the line I'll understand the code though.⁣
+- I like how I am taking/copying parts of code from different sources. It means it takes a bit more effort than following one tut because you have to get the parts to fit and work together. It also reminds me of my music production days and sampling from multiple sources to create my own finished product.⁣
+⁣
+**Questions**⁣
+- Seems a long ass process to convert Unix to a readable time, wonder if there is a library to do this?
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CAIHSG7glXg/)
+2. [GH Repo - React Weather App Project](https://github.com/samchillcott/sam_react_weather_app)
