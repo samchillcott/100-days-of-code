@@ -721,3 +721,21 @@ Involved in programming.
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CAIHSG7glXg/)
 2. [GH Repo - React Weather App Project](https://github.com/samchillcott/sam_react_weather_app)
+
+### Day 42: 14/5/20 ⁣
+⁣
+**Today's Progress**⁣
+- Error handling in the search. Failed attempt.⁣
+⁣
+**Thoughts** ⁣
+- I'm feeling a little sensation in my chest from nerves. I don't have the knowledge to do a lot of this. I can read JS quite well now but when it comes to creating my own code, I really feel I am lacking. I feel like a fraud if I'm honest. Although I know this feeling is natural/common.⁣
+- I'm really feeling an avalanche of overwhelm today. I'm humbled with how much I can't do on my own. It's all good, I know I'll get there but can sense frustration that I'm not there yet.⁣
+- I can write out the logic and theory for this app no problem but when it comes to coding it, I am struggling. This is where rocking with tutorials too much (being passive) is catching up with me.⁣
+- I've always enjoyed optimising other people's work more than creating my own.⁣
+- This is the first time "riding without the stabilisers" and it is while I am doing complex mountain trails. I never tried when I was riding 20m on a flat road with no traffic about.
+- Mentor meet helped me mentally and also some tips around breaking code down, using comments and an introduction to debugging. It did dawn on me yesterday that I don't have a feedback loop because I can't understand what happens even when I do add code/get errors sometimes.
+- Tough day but tomorrow is another day.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CALHimrATUP/)
+2. [GH Repo - React Weather App Project](https://github.com/samchillcott/sam_react_weather_app)
