@@ -739,3 +739,20 @@ Involved in programming.
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CALHimrATUP/)
 2. [GH Repo - React Weather App Project](https://github.com/samchillcott/sam_react_weather_app)
+
+### Day 43: 15/4/20 
+
+**Today's Progress**
+- Error and Exception handling - Whether you hear people talking about Exceptions or Errors, in JavaScript they refer to the same thing. Error is a "you broke the law" shout and Exception is an "Almost there!" pad on the shoulder.
+- Error object - When an error occurs, JavaScript generates an object containing the details about it. The object is then passed as an argument to catch. For all built-in errors, the error object has two main properties: Name - Error name. For instance, for an undefined variable that’s "ReferenceError" & Message - Textual message about error details.
+- Basic debugging - including syntax errors. To me there are 4 parts: 1. Deciphering the error message (what is wrong in human language terms?) 2. Finding out why that is occurring. 3. Finding out where that is occurring within the code. 4. Updating the code to resolve the issue.
+- Debugging (in chrome dev tools) - more efficient than adding and removing console.logs all over your code to find where it is not working.
+- Breakpoint - "pause execution of the application here so I can do some inspection."
+
+**Thoughts** 
+- Looked into debugging to give me some skills on how to iterate the code I am creating. I haven't had a feedback loop recently so I didn't know where I was going wrong (without having someone check). I want to get to a stage where I can problem solve on the fly. TRY some code, if it doesn't work, understand why and what is happening, iterate until it does work. Without knowing why the code doesn't work you are confined to throwing randomness at a wall and seeing what sticks which is inefficient and quite frankly demoralising.
+- I didn't sleep enough last night so my enthusiasm and tolerance are pretty low today so just taking it steady and avoiding anything that could potentially piss me off (my project. Ha).
+- Having a bit more knowledge of errors and debugging has given me the confidence to TRY my code. Before I was scared to even write it in VSCode because even if it was wrong, I had minimal idea why, so I couldn't progress.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CANUd36g1RD/)
