@@ -756,3 +756,25 @@ Involved in programming.
 
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CANUd36g1RD/)
+
+### Day 44: 16/5/20 
+
+**Today's Progress**
+- Set up chrome debugging in VSCode - I like the idea of being able to adjust the code as you debug. (Yes you can do it by linking the chrome debug back to your VSC workspace but it's an extra step imo).
+- Starting working on background functionality. I'll be setting up a few conditionals that will change the background image depending on the cloudiness and temperature. Set up a default background image.
+- Relative imports outside of src/ are not supported (in React) so moved my images to src folder.
+- url paths in CSS files are relative to the position of the CSS file itself.
+- Conditional styles in React - Reading to figure out how to set this up.
+
+**Thoughts** 
+- I'm acknowledging a definite fear to return to my project. In reality I know there is nothing to be scared of other than "failure". I'm reminding myself that the worst that can happen is that I try a few things, they don't work and I'm back at square one. No code gets lost, the app doesn't break and nobody gets hurt. Well maybe my ego a little.
+- cmd mission control - Mac shortcut to clear desktop. Useful to know Mac shortcuts to make life quicker and easier. Especially with all these windows open on my 11" screen.
+- CSS centering and background images - the main 2 areas I struggled to nail when learning CSS so this will be good practice.
+- path structure - how to link the images. I struggle to work out the path if they are not in the same folder and don't appear in the IntelliSense in VSC. I remember this taking me ages to figure on my last Bootstrap project. 
+- I'm getting stumped by a CSS basic which is laughable but understandable because I've only ever really copied tuts. Note to others: get yourself out of tutorial hell ASAP. It is painful but it is the best way to learn and will come back to haunt you without a doubt if you decide to stay comfortable. Please learn from my "mistake".
+- Figured it was a no-repeat at the end of my line that was stopping it from working. I copied from a previous project but that only works with background not background-image.
+- If your brain hurts and you are feeling grrr it's a sign you are learning and taking on the right task. Accept it as part of the journey, don't give up as soon as you feel that. Discomfort is the compass.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CAP9zRNARZK/)
+2. [GH Repo - React Weather App Project](https://github.com/samchillcott/sam_react_weather_app)
