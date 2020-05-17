@@ -778,3 +778,19 @@ Involved in programming.
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CAP9zRNARZK/)
 2. [GH Repo - React Weather App Project](https://github.com/samchillcott/sam_react_weather_app)
+
+### Day 45: 17/5/20 ⁣
+⁣
+**Today's Progress**⁣
+- Conditional styling. Got one condition to work (sunny background). The other two don't quite work yet (they change from the default but don't change the background to their respective conditions/images, just to a blank screen). Maybe switching to an if else rather than a ternary will do it. "It's not generally a good idea to use nested conditional operators, but it can be done."⁣
+⁣
+**Thoughts** ⁣
+- Having multiple ways of doing things should be liberating but I'm actually feeling "analysis paralysis" and not committing to any way atm. Overwhelm is creeping in again. I'm getting really frustrated.⁣
+- You have got to give SOMETHING a try otherwise you'll stay stuck and pissed off. You may even be pleasantly surprised.⁣
+- I have jumped for tutorial hell into mental hell. This is where being self-taught really has its drawbacks as you don't have a teacher immediately on hand to settle you down and support you.⁣
+- I am deliberately leaving all styling until the end. Get the functionality done first, then make it look good.⁣
+- Practising debugging and troubleshooting is going to be worthwhile. I can see some elements are being changed but don't quite know where the block is. Knowing where to check (the console, react chrome extension, VSCode debugger) and what to look for will be a good skill going forward.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CASk2kOArya/)
+2. [GH Repo - React Weather App Project](https://github.com/samchillcott/sam_react_weather_app)
