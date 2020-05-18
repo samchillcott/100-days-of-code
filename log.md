@@ -794,3 +794,30 @@ Involved in programming.
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CASk2kOArya/)
 2. [GH Repo - React Weather App Project](https://github.com/samchillcott/sam_react_weather_app)
+
+### Day 46: 18/5/20 
+
+**Today's Progress**
+- Weather API project.
+- Full functionality on the backgrounds. I was missing a . before 2 of the CSS classes.
+- Rounded temp figures using round.
+- Planned extra spec (display name of country instead of the code) but unsure how to actually execute.
+- Added description from JSON data (trying to capitalise first letter).
+- npm run build and hosted app on GitHub pages (React apps use a slightly different process). 
+- https://samchillcott.github.io/sam_react_weather_app/
+- Reading about development v production build. The very basic difference is that Production Build has ugly, minified(compressed) version of your javascript code, so this makes rendering of file on end user's browser very quick and performance enhancing.
+- Reading on how to create a good commit message -s hould be clear and meaningful. In cases of more extensive changes, you would need to add some extra details. If you work for a company or contribute to open source, you have to adapt to their convention.
+
+**Thoughts** 
+- As annoying as it is, it is quite relieving to discover the thing that was blocking you was something simple (like a missing . ). I wish VSCode had a meter displaying how close you are to the solution eg. "You are so cold" or "you are soooo close with this and it's something obvious".
+- Getting into the swing of pushing to GH each time I make an alteration.
+- My lack of experience in building in JS means I don't really have an idea of how I'd even start some of the extra spec (which means I don't always know what to google).
+- Not too familiar with nam run build but managed to get it hosted. It gets me on edge not knowing what exactly I'm doing when I'm making changes but if the code works, I'm going to have to get used to that uncertainty while I don't understand it. I also seem to have moved/deleted some files as a result of the GHP hosting/build and the local server no longer works (which is probably normal). Hopefully I am still able to make changes going forward and that just updates the build accordingly. If not, I'll figure out how to rollback my git changes which will also be good practice.
+
+**Questions**
+- Does the build create a new copy/version of all the files (leaving the original non-build in tact) or just overwrite/transform the existing files into the build version?
+- Can I run nam run start (development server) once I have made a build?
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CAVGAEVg8Dj/)
+2. [GH Repo - React Weather App Project](https://github.com/samchillcott/sam_react_weather_app)
