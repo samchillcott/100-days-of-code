@@ -821,3 +821,23 @@ Involved in programming.
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CAVGAEVg8Dj/)
 2. [GH Repo - React Weather App Project](https://github.com/samchillcott/sam_react_weather_app)
+
+### Day 47: 19/5/20 
+
+**Today's Progress**
+- Updated Web Design doc to include inspiration section. This will give me some ideas on how to style both my Weather App and my portfolio (which I will be doing in the coming weeks).
+- Sketched app design layout on pen and paper to get an idea of how I'd like it to look. Started with mobile first.
+- Cloned a pre build version of the app back to my machine to make further changes. 
+- Mentor session on cloning, branching and pull requests in GH. I now have 2 branches of my app: development build and production build.
+- Git Graph VSCode extension - I can visualise my branches and commits now.
+- Identified a few extra features I can add. 
+
+**Thoughts** 
+- When it comes to styling, I like to take the sampling approach (I like the font from this site, the layout from this one and the colours from this one). Having a rough idea or design before you come to code the CSS definitely helps. Personally, I have found in the past without having some sort of reference I can get lost in terms of direction/outcome when it comes to styling.
+- I will maybe check out sigma or webflow at some point but it's not needed at this stage as I'm only styling a single page app with minimal components.
+- Not having a specific plan of attack means I "worked" today (pre mentor sesh) but didn't really have anything to show for it. Always have a roadmap (not just for the coming weeks/months but also each day).
+- I'm happy I now know where git commits go (the git folder in the project which was hidden) and feel a bit more comfortable with the whole process of version control.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CAX7yNXArJb/)
+2. [GH Repo - React Weather App Project](https://github.com/samchillcott/sam_react_weather_app)
