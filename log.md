@@ -841,3 +841,15 @@ Involved in programming.
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CAX7yNXArJb/)
 2. [GH Repo - React Weather App Project](https://github.com/samchillcott/sam_react_weather_app)
+
+### Day OFF: 20/5/20 
+
+**Today's Progress**
+- N/A
+
+**Thoughts** 
+- It is such a nice feeling when you wake up on a day off knowing you aren't going to stress the brain. There is still that little bit of pressure because you know you'll be back it it in a day or two.
+- This is only my third day off in 47 days so I don't feel so bad about it. I have been hammering because I wanted to finish it as soon as possible. My plans have slightly changed though so I've taken a bit of pressure of myself to do that so could potentially take more breaks going forward.
+- Lately I'm really seeing the difference between learning something and knowing how to do/use that knowledge. I really want to start applying what I'm learning going forward.
+- Ironically, taking time off/out is when my brain is most active and comes up with great ideas/solutions so it's tough to stay switched off.
+- Almost half way and giving myself some credit for getting this far and what I am able to create that I couldn't do 47 days ago.
