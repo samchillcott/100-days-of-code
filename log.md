@@ -853,3 +853,21 @@ Involved in programming.
 - Lately I'm really seeing the difference between learning something and knowing how to do/use that knowledge. I really want to start applying what I'm learning going forward.
 - Ironically, taking time off/out is when my brain is most active and comes up with great ideas/solutions so it's tough to stay switched off.
 - Almost half way and giving myself some credit for getting this far and what I am able to create that I couldn't do 47 days ago.
+
+### Day 48: 21/5/20 ⁣
+⁣
+**Today's Progress**⁣
+- New feature attempt: expand the country code to the full country name.⁣
+- GitHub Gist - an easy method to share snippets or excerpts of data with others hosted by GitHub as a repository.⁣
+- Reading up on common JS errors to get used to solving some basic mistakes.⁣
+- x is not defined - undefined means a variable has been declared but has not yet been assigned a value. Think of it as a key-value pair without a value. You’ve created the variable but not given it a value.⁣
+- Debugging session with my mentor - how to understand the stack trace and test assumptions.⁣
+⁣
+**Thoughts** ⁣
+- I'm getting quite good at planning the logic and knowing what needs to be done but executing that in code is where my bottleneck is atm. This is highlighting a weak area of not knowing how to USE JavaScript. I can read it pretty well but in terms of using it as a tool to provide a solution, I have some work to do. Sure it will get better with practice.⁣
+- I am actually quite embarrassed how much I don't know how to program basic JS myself at this stage. My delayed escape from tutorial hell has been a major reason for this.⁣
+- Also inexperience in debugging slows down the learning process. If you know what you are doing wrong you can figure out what to change.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CAc6ndTgwPH/)
+2. [GH Repo - React Weather App Project](https://github.com/samchillcott/sam_react_weather_app)
