@@ -871,3 +871,27 @@ Involved in programming.
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CAc6ndTgwPH/)
 2. [GH Repo - React Weather App Project](https://github.com/samchillcott/sam_react_weather_app)
+
+### Day 49: 22/5/20 ⁣
+⁣
+**Today's Progress**⁣
+- General debugging tips (first 6 ref Andy Sterkowitz):⁣
+- Switch your mode of thinking. Slow down and be inquisitive.⁣
+- Check your logic (the instructions you gave your computer).⁣
+- Read the error messages - they are your best friend.⁣
+- Assume human error and check for simple errors.⁣
+- Make small changes and fix them often (prevents creating more bugs).⁣
+- Take mental breaks - allow the brain to get creative/problem-solve (diffused learning/thinking)⁣
+- Read the stack trace. ⁣
+- Error handling - if the program keeps crashing at a particular spot, try surrounding that code with try & catch blocks and investigating the error object that gets returned.⁣
+- Commenting out - in the block where you think the problem may be, comment it all out (bar the first line) then add lines back in one at a time and test.⁣
+--⁣
+- null v undefined v not defined - Javascript has three ways to describe values which don’t exist or should not exist in general.⁣
+⁣
+**Thoughts** ⁣
+- Debugging hasn't really been needed up until now. Now I am writing the code myself, the ability to debug is super important.⁣
+- I will be learning how to read the stack trace the next day or so.⁣
+- Am intrigued by diffused learning so will read up on it.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CAfdRCZABRj/)
