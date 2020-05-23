@@ -895,3 +895,25 @@ Involved in programming.
 
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CAfdRCZABRj/)
+
+### Day 50: 23/5/20 
+
+**Today's Progress**
+- Debugging ctd.
+- Call stack v stack trace - while you're debugging you will look at the current call stack but when you look at logs, you'll get a stack trace. Call stack and stack trace error are the 2 most important things to look at when looking at a problem.
+- Stack trace anatomy - It stacks up from the bottom to the top. Look at the top AND the bottom. Look at the stack traces from the top, work your way down. The bottom is the root cause.
+- Naming functions and error messages are important for debugging with stack traces.
+- Explicitly throw errors with meaningful messages to help out your future self when you’re debugging your code.
+- Memory Heap — this is where the memory allocation happens. Objects are allocated in a heap which is just a name to denote a large (mostly unstructured) region of memory.
+- Call Stack — this is where your stack frames are as your code executes. Each entry in the Call Stack is called a Stack Frame.
+- Updated favicon and title for weather app.
+- Signed up for and had a look at HackerRank to practice some basic JS challenges in the future.
+
+**Thoughts** 
+- I'm learning this now so when I add the new features to my app, I will have a better toolkit to get the features functional and the time spent learning to debug will by far outweigh the time potentially looking at my errors and not knowing what to do next.
+- I get the impression that when employed as a dev, much of the time you aren't actually building new code, you are trying to solve problems with existing code. I actually like the thought of this (or maybe I am saying that because I'm not yet competent writing my own code?).
+- Half way through the challenge. Pleased with progress and my routine. Aiming to be way more competent and confident in writing JS by the end of the challenge. I have a fair bit of knowledge, now it is time to apply it.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CAh9X79AxLg/)
+2. [GH Repo - React Weather App Project](https://github.com/samchillcott/sam_react_weather_app)
