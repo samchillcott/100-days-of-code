@@ -917,3 +917,17 @@ Involved in programming.
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CAh9X79AxLg/)
 2. [GH Repo - React Weather App Project](https://github.com/samchillcott/sam_react_weather_app)
+
+### Day 51: 24/5/20 
+
+**Today's Progress**
+- Weather App update.
+- Bespoke error alerts for failed API request and successful API request but incorrect city entered.
+
+**Thoughts** 
+- Really not in the right headspace for coding but didn't want to have a day off so did something easy and called it a day. Will come back again tomorrow.
+- I get in these moods when I'm either stressed or tired. I didn't sleep well last night so was aware I could have "one of those days" where my patience and tolerance is low. Catching and acknowledging it really helps me deal with it. If I HAD to get on and work, obviously I'd battle through it but I don't have to so I won't and give myself a pass today.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CAkgGY-gjy5/)
+2. [GH Repo - React Weather App Project](https://github.com/samchillcott/sam_react_weather_app)
