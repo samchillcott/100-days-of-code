@@ -931,3 +931,27 @@ Involved in programming.
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CAkgGY-gjy5/)
 2. [GH Repo - React Weather App Project](https://github.com/samchillcott/sam_react_weather_app)
+
+### Day 52: 25/5/20 
+
+**Today's Progress**
+- CSS styling for weather app. Added:
+- Google font.
+- Wrapper box with opacity.
+- Icon from the JSON.
+- Capitalised the description.
+- Fixed position of wrapper so when data appears the top of the wrapper doesn't move up.
+- Changed app initial background to a gradient.
+
+**Thoughts** 
+- Stick to one task at a time until completion. Found myself getting pulled to the next task a few times."Ooh wouldn't it be cool if x ? How do I do that? Let me google it..".
+- Looking at other well-designed apps makes me realise my UI skills aren't as good as I'd like but to be fair, I've spent more time learning development and functionality over design.
+- I'm getting lost without a design to aim for.
+- Got myself in a right mess changing a few things then ctrl z'ing. Want to be able to rollback with confidence in future. Figured "discard all changes" (before staging in the sidebar) does the trick. As long as you save the commit previously.
+- Still not quite nailed CSS positioning but getting better.
+- I do enjoy making sites/apps look a bit sleeker.
+- Enjoyed today's session as I could do a lot of the tasks without having to google/learn. My skill level was up to the challenge so I was able to get into flow state more. Something which I haven't been able to do for ages because my skill level has been way below the level of the challenge. Looking forward to more days like this in the future.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CAnDJ9Ogzip/)
+2. [GH Repo - React Weather App Project](https://github.com/samchillcott/sam_react_weather_app)
