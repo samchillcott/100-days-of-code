@@ -955,3 +955,24 @@ Involved in programming.
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CAnDJ9Ogzip/)
 2. [GH Repo - React Weather App Project](https://github.com/samchillcott/sam_react_weather_app)
+
+#100DayOfCode [53/100]⁣
+⁣
+### Day 53: 26/5/20 ⁣
+⁣
+**Today's Progress**⁣
+- Weather App Autocomplete - I would like to have an extra feature where suggestions appear as the user types in the input field.⁣
+- Added 4th background option to cover when clouds > 50% && temp > 20. My mentor did say he left out some of the spec to see how I'd handle it. I think I found what he was hinting at.⁣
+- Code and project review with mentor @voyzan. Mutually decided to wrap this app up and move to another project.⁣
+- Updated error handling. Be prepared for more than one error case (it is not binary - it works v it doesn't work) and have bespoke / specific error handlers (especially for ones we expect).⁣
+- Updated ternary operator to if else logic (to alter the background image).⁣
+⁣
+**Thoughts** ⁣
+- There are quite a few ways to do autocomplete. All of which look long-winded. It would be good practice to attempt one but wondering if it would be worthwhile at this point.⁣
+- There are quite a few other features I'd love to add (which weren't all part of the original spec) but I'm thinking the app works atm and maybe it is time to start on project 2 and look toward getting a portfolio site created with at least 2 projects. That will serve me more than one project and I can always come back and add the features at a later date. Build upon existing projects.⁣
+- I'm getting into the habit of asking for guidance/direction (not necessarily help) once you've looked at options.⁣
+- Knowing when to call it a day and move on - Was a good call to at least consider moving on. Feel glad now we are moving on.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CAp0R5sg7U8/)
+2. [GH Repo - React Weather App Project](https://github.com/samchillcott/sam_react_weather_app)
