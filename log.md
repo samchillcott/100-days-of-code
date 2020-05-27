@@ -976,3 +976,21 @@ Involved in programming.
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CAp0R5sg7U8/)
 2. [GH Repo - React Weather App Project](https://github.com/samchillcott/sam_react_weather_app)
+
+### Day 54: 27/5/20 
+
+**Today's Progress**
+- Redraw on keypress - I have seen that react refreshes state (twice!) each time a key is pressed (and on loading of the app)so attempted to prevent this behaviour. Mentor set this as my challenge for the day but unable to find/implement a solution myself but after chatting I think it is using shouldComponentUpdate/React.memo. I know where it is happening though thanks to debugging skills. 
+- New branch on Git - I made a new branch for this bug fix to get a bit of practice using branches and merging. Eventually I will merge (via PR) the dev branch back with the production branch.
+- Check out - The git checkout command lets you navigate between the branches created by git branch. Checking out a branch updates the files in the working directory to match the version stored in that branch, and it tells Git to record all new commits on that branch.
+- GitHub contributions - Reading on how to get more green. Contributions (issues, pull requests and commits) are only counted if they meet certain criteria and I don't think my work recently (other than creating new repos) has counted.
+
+**Thoughts** 
+- Git Graph - Spent 15 mins trying to view Git Graph then realised there was a button at the bottom of VSCode. It's all very well installing all these extensions but if you don't know how to use them..
+- I want to be more comfortable with Git/branches. I have an irrational fear of deleting (all my) work so knowing what is going on will ease that discomfort. 
+- Git skills can be a differentiator when it comes to job applications, needed for open source and for daily pro dev life.
+- Don't really feel like I've accomplished much today (started 3 different things and didn't really "complete" 2 of them and was task switching a lot) but I know some good learnings and progress have been had that will come in handy in the future.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CAsOuxWg1zY/)
+2. [GH Repo - React Weather App Project](https://github.com/samchillcott/sam_react_weather_app)
