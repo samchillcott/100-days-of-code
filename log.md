@@ -994,3 +994,25 @@ Involved in programming.
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CAsOuxWg1zY/)
 2. [GH Repo - React Weather App Project](https://github.com/samchillcott/sam_react_weather_app)
+
+### Day 55: 28/5/20 
+
+**Today's Progress**
+- Git branches - Getting head (good pun) around what is going on when a new branch is created. My new branch (created for the redraw fix) hadn't been pushed so it didn't show in GH. 
+- Detached HEAD state - You can look around, make experimental changes and commit them, and you can discard any commits you make in this state without impacting any branches by performing another checkout.
+- Redraw fix - attempted to use React.memo to prevent redraw on each keystroke. Doesn't seem to work.
+- React.memo is a higher order component. It’s similar to React.PureComponent but for function components instead of classes.
+
+**Thoughts** 
+- Unsure why my branches have changed colours after a commit. This really puts me on edge thinking I may be messing up the structure.
+- Got quite confused with all the different branches and terms: master, origin/HEAD, origin/master, branchname,
+branchname/origin. Realised/remembered origin branches are the ones on GH/remote so makes a bit more sense now.
+- Doesn't look like new branch (redraw_fix) is branching off the dev branch on GG. Or maybe it is, I can't tell.
+- Another day where I feel I haven't made much progress. Or at least have nothing to show for it. Going round in circles a bit.
+- Wondering if my lack of understanding of lifecycles is hindering me. I know hooks do this for me nowadays but I don't really know what useEffect is doing. 
+- I like how there is good documentation for React. My challenge is a lot of it is still over my head at this stage.
+- Can feel frustration building up so calling it a day today.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CAuuUErAM8U/)
+2. [GH Repo - React Weather App Project](https://github.com/samchillcott/sam_react_weather_app)
