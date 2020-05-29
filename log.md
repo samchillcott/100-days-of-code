@@ -1016,3 +1016,20 @@ branchname/origin. Realised/remembered origin branches are the ones on GH/remote
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CAuuUErAM8U/)
 2. [GH Repo - React Weather App Project](https://github.com/samchillcott/sam_react_weather_app)
+
+### Day 56: 29/5/20 
+
+**Today's Progress**
+- Trying to prevent state being changed each keystroke in the form. Possibly due to my logic, not necessarily react. The form onChange is triggering the function (each key stroke) that changes the state.
+- Readonly means the input field won't be editable.
+- Solved the keystroke issue but then app no longer functions after submit. It is not grabbing the value from the input field. Will try again tomorrow.
+
+**Thoughts** 
+- Worry Dump - Did a coaching exercise to list all the things I am worried/stressed about in terms of my coding journey (Exercise in Resources section of my website). Was good to get it onto paper and came up with an action plan. Feel better for it.
+- Quick chat with mentor. General advice: Try different solutions to get it working. I think I have been giving up too easily by quitting after solution 1 doesn't work. And also a fear of attempting the "wrong" solution (even if I get the code working it doesn't do what I hoped).
+- I am getting caught out by modelling my code on someone else's because I don't know the full ins and outs of the code (specifically the event handler functions). Yes, the code works but I don't 100% know how which means when it comes to trouble shooting, there are grey areas in my understanding of the code.
+- Spent another 3 hours on it to no avail but am getting used to finding and trying different solutions, following the logic and not caving in mentally. I can feel I'm close to solving this.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CAxfYZKAWsh/)
+2. [GH Repo - React Weather App Project](https://github.com/samchillcott/sam_react_weather_app)
