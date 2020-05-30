@@ -1054,5 +1054,5 @@ branchname/origin. Realised/remembered origin branches are the ones on GH/remote
 - After a few convos, I have decided to leave the re-render issue. I gave it a go but not worth getting hung up on (like I did with promises) a while back. Time to move on.
 
 **Link(s) to work**
-1. [IG Video #100DaysOfCode]()
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CA0axdeAF36/)
 2. [GH Repo - React Weather App Project](https://github.com/samchillcott/sam_react_weather_app)
