@@ -1033,3 +1033,26 @@ branchname/origin. Realised/remembered origin branches are the ones on GH/remote
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CAxfYZKAWsh/)
 2. [GH Repo - React Weather App Project](https://github.com/samchillcott/sam_react_weather_app)
+
+### Day 57: 30/5/20 ⁣
+⁣
+**Today's Progress**⁣
+- CA loops and higher-order functions practice. Want to complete the CA JS to 100% at some point.⁣
+- When we pass in a higher-order function, it is by reference, not by return value. We want to invoke it only once it is inside the other function’s body.⁣
+- Think of callbacks as variables for functions – they can take on many different function values – whereas calling a function directly is like using a constant.⁣
+- Reading about the concept of Intuition in programming. The more you code, the better you will get at knowing what to do, basically. Some also call it experience.⁣
+- React component lifecycle reading. Although these are handled differently nowadays it is good to know what is involved.⁣
+- Mounting - to mount is to make a group of files in a file system structure accessible to a user or user group.⁣
+- shouldComponentUpdate attempt. Get the logic, can't get it working in my app.⁣
+⁣
+**Thoughts** ⁣
+- Steady day of odds and sods. Wanted to do some hours but not start anything new/big because I plan to have tomorrow off.⁣
+- Although CA is pretty basic, I'm actually quite rusty on the logic and syntax. This has been good practice to get thinking for myself and not rely on tuts. I'd like to do more of these little brainteasers.⁣
+- "Intuition comes from grinding away at fundamentals." This quote was buried in the CA forum. Intuition is what my mentor talks about and that it will come with time.⁣
+- Pass by reference and pass by value make a lot more sense now I am revisiting it. I didn't quite get it at the time.⁣
+- Sometimes I take terminology for granted. Every now and again I ask "what does that even mean?" and go google. ⁣
+- After a few convos, I have decided to leave the re-render issue. I gave it a go but not worth getting hung up on (like I did with promises) a while back. Time to move on.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode]()
+2. [GH Repo - React Weather App Project](https://github.com/samchillcott/sam_react_weather_app)
