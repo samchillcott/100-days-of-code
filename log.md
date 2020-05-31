@@ -1056,3 +1056,15 @@ branchname/origin. Realised/remembered origin branches are the ones on GH/remote
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CA0axdeAF36/)
 2. [GH Repo - React Weather App Project](https://github.com/samchillcott/sam_react_weather_app)
+⁣⁣
+### Day OFF: 31/5/20 ⁣⁣
+⁣⁣
+**Today's Progress**⁣⁣
+- N/A⁣⁣
+⁣⁣
+**Thoughts** ⁣⁣
+- My logged hours has definitely dropped over the last month but my applied learning has improved big time. I've gone from relying on tuts and passive learning where it is easier to log the hours to active applied learning where it is more taxing and frustrating. Initially, I was disappointed with the drop in hours but it makes sense and if I was to look back at where I was the start of the month, my knowledge and intuition have grown quite a bit. It's cool to track the hours but its what you do in that time and after that really matters. ⁣⁣
+- Looking forward to my next challenge (set by my mentor) which just arrived in the inbox. Will check it out tomorrow. No code today.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CA2uiyzA8nb/)
