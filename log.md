@@ -1068,3 +1068,22 @@ branchname/origin. Realised/remembered origin branches are the ones on GH/remote
 
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CA2uiyzA8nb/)
+
+### Day 58: 1/6/20 ⁣
+⁣
+**Today's Progress**⁣
+- Project planning reading - Technology selection, prioritising feature list (or using versions), mock-ups & storyboarding, high-level architecture, pseudocode, timelines.⁣
+- High-level architecture - breaking it into categories like "objects", "logic", "user interaction", "user data", and "scenes" - and then think about how you might implement them, like as object-oriented object types, functions, or variables.⁣
+- Project 2 challenge: Coaching Question Generator. Planned out my high-level architecture.⁣
+- Created React app and linked to GH. To avoid errors, do not initialize the new repository with README, license, or gitignore files. You can add these files after your project has been pushed to GitHub.⁣
+- Matched email address in Git/GitHub so commits now register as contributions.⁣
+⁣
+**Thoughts** ⁣
+- The project has been chosen because it is fairly simple and will give me good practice to code from scratch and build new neural pathways. It is a spin on a classic exercise and is something I (and some coaches I know) would potentially use.⁣
+- I like the challenge of starting from scratch, I really have to think how the data is going to be passed around. Creating a basic react app from scratch will also get me more familiar with the recurring themes and how to plan state and props between components.⁣
+- It is tough to resist just googling a lot of this (which there is nothing wrong with) but I want to try on my own for as long as I can.⁣
+- Chuffed my commits now show as green on GH. I will figure out how to change previous commits under the unmatched email.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CA5KhBDA_9i/)
+2. [GH Repo - React Coaching Question Generator App](https://github.com/samchillcott/sam_react_coaching_questions)
