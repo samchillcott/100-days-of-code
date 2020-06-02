@@ -1087,3 +1087,28 @@ branchname/origin. Realised/remembered origin branches are the ones on GH/remote
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CA5KhBDA_9i/)
 2. [GH Repo - React Coaching Question Generator App](https://github.com/samchillcott/sam_react_coaching_questions)
+
+### Day 59: 2/6/20 
+
+**Today's Progress**
+- Drafting logic for Coaching Question Generator.
+- Attempted fetch() logic.
+- Set up state and props accordingly.
+- onClick event handler - invoke randomQuestion when Generate button clicked.
+- Decided to strip it back (not using fetch or JSON) and start with the most simple option to get something showing in the component using the onClick handler.
+- Added randomness functionality using math.floor.
+
+**Thoughts** 
+- Got as far as I can from memory/current knowledge so had to look up a few things. Am still making a conscious effort to not copy directly from a tut (I could easily google "question generator React"). I am allowing myself to use sections from multiple resources as a reference. That will still give me practice in googling and refactoring the answer to execute in my code base.
+- Some of this I haven't done before so I have to google it to know how to do it in the first place. 
+- Feeling slight overwhelm again due to so many "open loops". Tackle one at a time.
+- There is a part of me that wants it to compile correctly each time I add code but that hinders my progress in terms of adding pseudocode. Maybe I am best adding all the code THEN trying to debug.
+- There is also an internal battle to "get it done (it doesn't matter how)" and "work it out for yourself (stop googling)". Basically Do it v Learn it. Bit I'm sure by doing, I'll also learn.
+- I have forgotten a lot of my non React DOM manipulation so converting my googled JS questions back into React is not straight forward.
+- I am starting to see the multiple ways of doing this app and suffering from the paradox of choice again. I have half committed to about 3 ways and not got any working yet. More detailed and considered planning would have prevented this.
+- Debugging skills definitely helped me figure out how to get my data showing.
+- One of my best days in terms of chipping away and enjoying it.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode]()
+2. [GH Repo - React Coaching Question Generator App](https://github.com/samchillcott/sam_react_coaching_questions)
