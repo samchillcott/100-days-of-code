@@ -1112,3 +1112,23 @@ branchname/origin. Realised/remembered origin branches are the ones on GH/remote
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CA-IfFcgfUb/)
 2. [GH Repo - React Coaching Question Generator App](https://github.com/samchillcott/sam_react_coaching_questions)
+
+### Day 60: 3/6/20 
+
+**Today's Progress**
+- Coaching Question Generator App.
+- No repeat functionality. Got it not repeating but needs a refresh to reset.
+- Attempted a different approach using 2 arrays but ended up with React infinite loop/rendering warning. Will endeavour to solve.
+- .splice() - adds/removes items to/from an array, and returns the removed item(s). This method changes the original array.
+
+**Thoughts** 
+- I'm getting better at refactoring Stack Overflow/googled answers and suggestions into my code. I know what needs to be substituted or altered because I understand code better lately.
+- Deciphering each line in a text doc helped me figure how the "copied" code works internally. Once I know this, I can work out what I need to do to it to get it working in my codebase. Colour coding the variables and functions helps see what get used where.
+- I have noticed I get a natural reaction of anxiety/fear if I see a block of code that is bigger than about 10 lines. I shall catch myself from now on and just remind myself that I can break it down and just because it is a lot of code, doesn't mean it is super difficult. It usually isn't, just verbose.
+- Today has been good practice working with arrays and array methods. I have seen a lot of tests/challenges online using various methods but never really done any myself. I know there will be a lot in the future.
+- Spent 3 hours on 17 lines of code (which I haven't even got working in my app yet) but super worthwhile time spent.
+- Started practicing using debugging tool rather than console logs. Step is awesome as it shows what variables are as you go. Using Watch really helps too. I can now see at what point things start to go wonky (and quicker than dotted console logs).
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CA-JyIygW7a/)
+2. [GH Repo - React Coaching Question Generator App](https://github.com/samchillcott/sam_react_coaching_questions)
