@@ -1132,3 +1132,25 @@ branchname/origin. Realised/remembered origin branches are the ones on GH/remote
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CA-JyIygW7a/)
 2. [GH Repo - React Coaching Question Generator App](https://github.com/samchillcott/sam_react_coaching_questions)
+
+### Day 61: 4/6/20 
+
+**Today's Progress**
+- Quick refresher on function return values and when to use return keyword explicitly.
+- Rewrote logic for the random, non-repeating question selector function from scratch. Looks right on paper so just need to iron out the kinks and track variables to check it is doing what I assume it is doing.
+- <React.StrictMode> is what is causing the double render. StrictMode renders components twice (on dev but not production) in order to detect any problems with your code and warn you about them (which can be quite useful).
+
+**Thoughts** 
+- I do enjoy when I wake up my brain has kinda solved something in my sleep and the ideas start flowing before I even get out of bed.
+- I am really having to think line by line on how I want this onClick function to work. Rubber duck technique and pen and paper helping here.
+- I've got sketches of commented out code blocks all over my file which is getting a bit cluttered. Wonder if there is a better way of doing this. I want to keep my sketches in case I want to come back to them.
+- Using copied code isn't helping me atm (but has been useful for inspiration at least). Reverted to working it out from scratch from the bottom up on my own. "What do I want to have happen?" (classic coaching question) and some reverse engineering.
+- Kept having trouble with server - sometimes just loading, sometimes going straight to debugger. Possibly something I'm doing but slowing down my ability to check my code.
+- I seem to be getting the double redraw on the main App again. Not worried about it for now though. Although if it is executing twice it is resetting my arrays!
+- I know I am so close. I am buzzing.
+- I am laughing at how challenging this is. I love it. I'm enjoying it. 
+- I could do another few hours on this but decided to pause for now and bring the positive energy over to tomorrow's session for momentum.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CBAzSIUg6aD/)
+2. [GH Repo - React Coaching Question Generator App](https://github.com/samchillcott/sam_react_coaching_questions)
