@@ -1154,3 +1154,26 @@ branchname/origin. Realised/remembered origin branches are the ones on GH/remote
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CBAzSIUg6aD/)
 2. [GH Repo - React Coaching Question Generator App](https://github.com/samchillcott/sam_react_coaching_questions)
+
+### Day 62: 5/6/20 
+
+**Today's Progress**
+- No-repeat functionality for Question App.
+- Attempted to fix the logic.
+- Attempted a different logic on a new branch. It is random but still repeats. Most probably due to control flow/resetting somewhere.
+
+**Thoughts** 
+- I know this is fairly basic stuff (moving stuff between arrays, writing nested functions) but because I spent a long time in tutorial hell, these basic concepts were never ingrained. Happy I am learning them now.
+- I think scope and return (variables not being available outside a block) is where yesterday's code got stuck.
+- Referring to my googled answer to see what I am missing. There were a few lines I didn't see the purpose of but now I understand.
+- I get what each suggestion is doing but I sense there is (a potentially simple) missing link on how I integrate it to mine.
+- Also getting caught out by pass by reference/pass by value. I want the result of a function, not the function itself.
+- The fact I am learning function creation/logic within the context of React adds an extra layer of quirks to consider compared to if I was using vanilla JS.
+- I am wondering if some of the logic needs to be moved to the Question component. And do I need to store something in state so it doesn't reset?
+- I wonder if closure is at play here - related to my resetting each onClick. I've not learnt closure at all yet.
+- Still can't get Git branch to work properly = scared to commit changes in case it writes over original branch. 
+- Another 3 hours on this today but I am determined to work this out on my own because I know it will really help me consolidate JS functions, logic, control flow and React state knowledge.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CBDZQXAguW8/)
+2. [GH Repo - React Coaching Question Generator App](https://github.com/samchillcott/sam_react_coaching_questions)
