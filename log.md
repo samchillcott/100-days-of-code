@@ -1177,3 +1177,23 @@ branchname/origin. Realised/remembered origin branches are the ones on GH/remote
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CBDZQXAguW8/)
 2. [GH Repo - React Coaching Question Generator App](https://github.com/samchillcott/sam_react_coaching_questions)
+
+### Day 63: 6/6/20 
+
+**Today's Progress**
+- Branch reading and practice. I want to be confident I can make branches/sketches without overwriting anything. Branches are just pointers to commits. When you create a branch, all Git needs to do is create a new pointer, it doesn’t change the repository in any other way.
+- Pull request v merge - both do git merge but PR (GH feature) has options for notes and discussions via GH. PRs aren't really needed if there is only a single person on the repository.
+- Attempt to integrate full code from the other day. It complies but getting infinite loop error (calling your state setter immediately inside the function component body, which forces React to re-invoke your function again).
+- Solved the infinite loop and got it working but still repeating. Sure it is down to scope (which I have now sorted) and the fact it is running the App code twice.
+- ctrl c returns to terminal prompt (but will also disconnect the server).
+- "Highlight updates when components render." In React dev tools settings is helpful.
+
+**Thoughts** 
+- Getting stuck and trouble shooting over the last week has really strengthened my intuition muscle. I can read and understand errors, I can follow what my variables should be at each stage, I know where to look in my code for what to change, I know how to write functions from scratch. I feel way more competent (regardless of the fact I still haven't solved the non-repeat. Yet).
+- I'd like to get used to doing PR because I won't be the only one using the repo in the future.
+- Once I come out of debugger the server is struggling to work again. Used bespoke tactically placed console logs.
+- I'm pretty sure my logic works and it is React double render/refresh that is preventing the non-repeat functionality. This is something I picked up on in the last project (where luckily it didn't cause an issue). I also think it is normal React behaviour and can be worked around possibly using hooks.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode]()
+2. [GH Repo - React Coaching Question Generator App](https://github.com/samchillcott/sam_react_coaching_questions)
