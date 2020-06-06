@@ -1195,5 +1195,5 @@ branchname/origin. Realised/remembered origin branches are the ones on GH/remote
 - I'm pretty sure my logic works and it is React double render/refresh that is preventing the non-repeat functionality. This is something I picked up on in the last project (where luckily it didn't cause an issue). I also think it is normal React behaviour and can be worked around possibly using hooks.
 
 **Link(s) to work**
-1. [IG Video #100DaysOfCode]()
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CBGocATgYkr/)
 2. [GH Repo - React Coaching Question Generator App](https://github.com/samchillcott/sam_react_coaching_questions)
