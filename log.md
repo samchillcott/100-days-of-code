@@ -1197,3 +1197,15 @@ branchname/origin. Realised/remembered origin branches are the ones on GH/remote
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CBGocATgYkr/)
 2. [GH Repo - React Coaching Question Generator App](https://github.com/samchillcott/sam_react_coaching_questions)
+
+### Day OFF: 7/6/20 
+
+**Today's Progress**
+- N/A
+
+**Thoughts** 
+- There has been a shift. Normally I have days off because I want to give it a rest/had enough or I'm close to a little burnout. This time I scheduled the day off but really wanted to get back to it so it was hard to stay away. The increased ability has meant I wake up now thinking "Hmm I wonder if this approach will work? I can't wait to try" instead of "I have no idea how I am going to do this and I can sense I am going to get pi$$ed off".
+- Spent a quality day out in the countryside and chilling with some UFC. 
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CBJDa-YgIgG/)
