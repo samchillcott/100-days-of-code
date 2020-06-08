@@ -1209,3 +1209,24 @@ branchname/origin. Realised/remembered origin branches are the ones on GH/remote
 
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CBJDa-YgIgG/)
+⁣
+### Day 64: 8/6/20 ⁣
+⁣
+**Today's Progress**⁣
+- Attempt to circumnavigate React redrawing (and resetting) component each time onClick is fired. ⁣
+- Moved logic and state to Question component, same issue. Obvs.⁣
+- var x = y; x will copy the value of y if y is a string, number, boolean, null or undefined. However, if it's an object, array or a function x will store its reference. This can cause issues when setting state.⁣
+- Attempted to give my copy arrays (data and chosenItems) state so they hold between re-renders. Success! Questions no longer repeat.⁣
+- Converted question from [object Object] and saved as a variable so copy to clipboard now works correctly.⁣
+- Used that same variable to use in the Tweet Share link so that is working too now.⁣
+⁣
+**Thoughts** ⁣
+- I have a feeling it is my React component architecture that may be tripping me up. Checked some old projects to see where the logic and states usually get set. It's not all always done in App.js.⁣
+- Although I am determined to figure this out myself (and I am sure I will eventually) I think I have put enough time into the React issue. I know it can be solved in 5 mins with someone who knows React so it may be time to ask for help = more efficient use of time so I can move on.⁣
+- Ha, the extra 30 mins I put in before giving up found a solution! I think I have solved it.⁣
+- There is still the rare case of the last question chosen in the array could end up also being the first question selected after reset. I could probably make a conditional to prevent this. The larger the database, the lower the probability this could happen though.⁣
+- I have spent way over 10 hours on this small part of functionality but going through the process of finding, evaluating and attempting multiple solutions has given me so much experience and strengthened my intuition immensely. I'm glad I didn't give up and ask for the solution. I would have missed all that good stuff. Even if it was painful!
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CBLLR1CAYSu/)
+2. [GH Repo - React Coaching Question Generator App](https://github.com/samchillcott/sam_react_coaching_questions)
