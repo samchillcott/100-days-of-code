@@ -1241,4 +1241,4 @@ branchname/origin. Realised/remembered origin branches are the ones on GH/remote
 - Also did some reading on diffused thinking. Basically taking time out for the brain to connect some dots. I will make more of an effort to do this each day by either going for a walk or a run after coding sessions to let the brain work some magic.
 
 **Link(s) to work**
-1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CBOCE4AAOyg/)
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CBOEW6jgwKe/)
