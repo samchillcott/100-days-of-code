@@ -1230,3 +1230,15 @@ branchname/origin. Realised/remembered origin branches are the ones on GH/remote
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CBLLR1CAYSu/)
 2. [GH Repo - React Coaching Question Generator App](https://github.com/samchillcott/sam_react_coaching_questions)
+
+### Day OFF: 9/6/20 
+
+**Today's Progress**
+- N/A.
+
+**Thoughts** 
+- Taking time to be grateful not just for my progress but my life and situation. Will spend some time educating myself on current world events. 
+- Also did some reading on diffused thinking. Basically taking time out for the brain to connect some dots. I will make more of an effort to do this each day by either going for a walk or a run after coding sessions to let the brain work some magic.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CBOCE4AAOyg/)
