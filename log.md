@@ -1242,3 +1242,22 @@ branchname/origin. Realised/remembered origin branches are the ones on GH/remote
 
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CBOEW6jgwKe/)
+
+### Day 65: 10/6/20 ⁣
+⁣
+**Today's Progress**⁣
+- Added a few more Qs to the pool.⁣
+- Merge back into master. GitGraph looks how I imagined/hoped.⁣
+- Fast Forward in Git - fast forwards the master branch's pointer to match the merged commits if the master hasn't changed since branch off.⁣
+- Squash commits -  Instead of seeing all of a contributor's individual commits from a topic branch, the commits are combined into one commit and merged into the default branch.⁣
+- Created new branch for next feature: hide clipboard and tweet on initialise (only show after the user has clicked Generate once). Getting into the routine of creating new branches and not messing with the master.⁣
+- Completed hide share bar feature and used Pull Request on GH to merge back in. Deleted branch.⁣
+- Connected GH to Netlify and had a quick look at how to host my React app.⁣
+⁣
+**Thoughts** ⁣
+- Starting to get more confident with branching, merging and Pull Requests. Also head, base, origin, master are making more sense now⁣
+- Still a bit unsure on deployment, builds and CI etc. but will cover that in the coming weeks.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CBQQ4VIAo33/)
+2. [GH Repo - React Coaching Question Generator App](https://github.com/samchillcott/sam_react_coaching_questions)
