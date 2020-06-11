@@ -1261,3 +1261,23 @@ branchname/origin. Realised/remembered origin branches are the ones on GH/remote
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CBQQ4VIAo33/)
 2. [GH Repo - React Coaching Question Generator App](https://github.com/samchillcott/sam_react_coaching_questions)
+
+### Day 66: 11/6/20 
+
+**Today's Progress**
+- Basic styling for Coaching Question App.
+- Sorted twitter button appearance.
+- Added title.
+- Twitter button not hiding/showing as planned now I moved the share bar out of the Question component. Client is blocking the GET request for some reason. Possibly to do with Ad Blocker extension. Will leave it for now.
+
+**Thoughts** 
+- I want to get some basic styling done and get it hosted ASAP. That way it is ready to show and I can practice continuous deployment going forward. 
+- My styling is pretty minimal and not terrible. But also not super cool. Not fussed about it for now, as long as it doesn't look woeful.
+- I'd like to do more work with microinteractions and animations at some point but I want to get good at macro functionality before I worry about the icing and cherries.
+- I keep adding to my "cool features and tweaks/styling to add" list. I'll leave them for now but will be cool things to work on at a later date.
+- I still haven't mastered preventing contents from leaving a div. It's only happening on edge cases in my app but it would be good CSS basic knowledge.
+- I will look into build/branch/hosting tomorrow. Really want to get head around how to deploy and update when using React apps (which require a build before they can be hosted as far as I'm aware).
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CBTBy05Aedc/)
+2. [GH Repo - React Coaching Question Generator App](https://github.com/samchillcott/sam_react_coaching_questions)
