@@ -1281,3 +1281,26 @@ branchname/origin. Realised/remembered origin branches are the ones on GH/remote
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CBTBy05Aedc/)
 2. [GH Repo - React Coaching Question Generator App](https://github.com/samchillcott/sam_react_coaching_questions)
+⁣
+### Day 67: 12/6/20 ⁣
+⁣
+**Today's Progress**⁣
+- Reading on production builds and deployment with React.⁣
+- Uglify - to minify, parse and compress JS.⁣
+- Learning about Source maps, static files and Hash.⁣
+- Netlify - Deployed test branch to be hosted. Works well but noticed some functionality had been broken yesterday (ctc works fine but tweet share is not working as it was).⁣
+- Updated favicon.⁣
+- Attempt to fix the twitter bug. Has to do with it being an iframe.⁣
+- Chat with mentor @voyzan reviewing code and planning the next area of work.⁣
+⁣
+**Thoughts** ⁣
+- School day learning what all these terms actually mean. I hear them all the time so its good to get a proper understanding.⁣
+- Happy to get a project hosted. Albeit there are still a few tweaks I'd like to do to get it to a presentable level.⁣
+- My perfectionist tendencies are making me feel uncomfortable with all these little open loops (even though they are insignificant really).⁣
+- Love how Netlify does auto/continuous deployment and does the building for you. You just tell it which branch to deploy from in your repo. ⁣
+- For some reason, I had it in my head that once you did npm run build you couldn't go back (build and development were mutually exclusive). Now I see that they aren't. You can build, add a feature then build again.⁣
+- Looking forward to wrapping up this project and moving onto the next phase of my journey.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CBV-PhQgH8n/)
+2. [GH Repo - React Coaching Question Generator App](https://github.com/samchillcott/sam_react_coaching_questions)
