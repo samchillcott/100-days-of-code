@@ -1304,3 +1304,23 @@ branchname/origin. Realised/remembered origin branches are the ones on GH/remote
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CBV-PhQgH8n/)
 2. [GH Repo - React Coaching Question Generator App](https://github.com/samchillcott/sam_react_coaching_questions)
+
+### Day 68: 13/6/20 
+
+**Today's Progress**
+- Created code optimisation document and bookmarked some content.
+- edabit JS challenges on Very Easy level then on to Easy.
+- Recursion is a technique for iterating over an operation by having a function call itself repeatedly until it arrives at a result.
+
+**Thoughts** 
+- The next few days/weeks will be spent beefing up my JS logic muscles. I want to start at the ridiculously basic and work up to find my level. Then increase my level from there. I want to be able to speak (unassisted) JS competently and I want to do it as efficiently as I can.
+- Gym weights analogy. Reps and finding weight that will tear the muscle.
+- Breezed through first 10 or so. Now some are still simple but do require some thinking.
+- Good practice optimising and refactoring if else into ternaries. If you are returning a ternary it needs to be in ().
+- It's not necessary to return true if the condition that is being returned already evaluates to true
+- Took the afternoon to spend some time with the family but wasn't really present as I found myself resenting being there because I wanted to code. I'd also like to build the muscle of work life balance and be able to switch off.
+- edabit is annoying because you have to constantly flick between the question and the code tabs. I want to be able to read the question next to my code. Feature request sent.
+- Recursive functions seem a bit advanced for "Easy" section. Comments section tend to agree.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CBYbLbOg1l3/)
