@@ -1324,3 +1324,26 @@ branchname/origin. Realised/remembered origin branches are the ones on GH/remote
 
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CBYbLbOg1l3/)
+⁣
+### Day 69: 14/6/20 ⁣
+⁣
+**Today's Progress**⁣
+- Clean code reading.⁣
+- KISS - Ask: Can this be written in a simpler way?⁣
+- DRY - don't repeat yourself. Use functions instead of repeating blocks.⁣
+- YAGNI: You Aren't Gonna Need It. A developer should not add functionality unless deemed necessary.⁣
+- Favour readability - There's no point in having concise code if people don't understand it.⁣
+- Practice consistency - If you decide to do something a certain way, stick to it throughout the entire project.⁣
+- Verb Noun naming convention - describe the action it will perform with a verb, such as get, set, transform, or render. Then include a description of the value that the method will return or update⁣
+- Classes and functions should be small and obey the Single Responsibility Principle (SRP).⁣
+- Positive Boolean Variables - Avoid double negatives in your code by writing boolean variables positively.⁣
+- Pure functions - a method that does not depend on an external mutable state.⁣
+- Catch and handle exceptions, even if you don’t think you need to.⁣
+- Logs, logs, logs - You should be logging every major “step” your program takes, any important calculations it makes, any errors, exceptions, or out of the ordinary results.⁣
+- Comments are often lies waiting to happen - While comments are important, code should speak for itself whenever possible.⁣
+⁣
+**Thoughts** ⁣
+- Not in the right mind state for challenges so opted for passive learning today. Look forward to implementing learnings when I return to the challenges.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CBbKTi_gJ9W/)
