@@ -1347,3 +1347,24 @@ branchname/origin. Realised/remembered origin branches are the ones on GH/remote
 
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CBbKTi_gJ9W/)
+⁣
+### Day 70: 15/6/20 ⁣
+⁣
+**Today's Progress**⁣
+- edabit "Easy" challenges.⁣
+- Practice with Math.min, shift, join, toString, slice, reduce, FOR loops, addition assignment operator (+=), eval, remainder operator (%).⁣
+⁣
+**Thoughts** ⁣
+- Cool to use and come across new built-in and array methods. My last 2 projects have only really had up to about 5 functions each so my exposure to all that JS has to offer has been minimal. ⁣
+- I like how edabit allows multiple ways to solve. Codeacademy was strict especially on syntax. edabit uses tests so as long as your code returns the expected results, you pass. You can also view alternative solutions to see how others created their functions. It is fascinating to see their approach but also how you can potentially improve your own code.⁣
+- I like how you can debug and iterate by checking your test results = feedback.⁣
+- I prefer to google my potential solutions rather than use the resources tab which hints at which methods to use. I prefer to try and figure that out for myself.⁣
+- Funny how the 3 methods I used can be done in one but I learned 4 in total so who's the mug?⁣
+- My array method knowledge is pitiful. Glad I am doing these challenges. The "Easy" section is hard for me atm because I don't know what (common) methods are available and therefore struggle to know where to even start.⁣
+- It is harder to debug your solution because you can't console.log to see the point in your code where you are going wrong.⁣
+- Wondering whether it is best to time limit myself to solve each challenge or keep going until I get it. Both probably beneficial tbh because even if I'm not solving it (yet), I'm working the muscle to try. ⁣
+- Decided to check solutions after 90 mins. Some of which I would never have got.⁣
+- Somewhat demoralising success rate but now I know my level and what I would like to improve.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CBdICwygLBS/)
