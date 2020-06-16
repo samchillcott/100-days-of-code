@@ -1368,3 +1368,27 @@ branchname/origin. Realised/remembered origin branches are the ones on GH/remote
 
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CBdICwygLBS/)
+⁣
+### Day 71: 16/6/20 ⁣
+⁣
+**Today's Progress**⁣
+- edabit Very Easy: Success Rate approx 90% over 3 hours.⁣
+- Learnings: Bitwise Operators, concat, reverse, split, indexOf, charAt, pop, switch (and case) statement, arguments.length.⁣
+- Booleans can also be written as integers, where 1 = True and 0 = False.⁣
+- .length -1 gives you the last item in the array (because the index starts at 0).⁣
+⁣
+**Thoughts** ⁣
+- I'm checking the Resources section earlier now so I can at least get some momentum and practice integrating methods into my code from documentation. I'll revert to avoiding Resources when I have a bit more ability at this level.⁣
+- Setting a 15 min time limit to solve myself.⁣
+- I am still learning even if I check the solutions.⁣
+- Some of these I am almost completing, just getting stumped by the edge cases that they throw in. All good practice for the real world though.⁣
+- So annoying I can't debug, I could solve most of these if I could check my variables throughout the code (when there is more than one line of code). Suppose I could return my output (at a certain stage) as an "answer" and build from there so at least I can check it.⁣
+- These are starting to get a little easier for me now I know the common methods available to me. Which also means I don't need to check the resources section as much now.⁣
+- Getting really good at ternary operators.⁣
+- Started off hit and miss on Easy now its mainly hits so time to move to Medium difficulty. ⁣
+- These are testing my algebra skills as well as coding. It's all logic.⁣
+- There is a distinction between solving on my own and solving after I read the Resources. Will track "solved", "solved with hint", "pass/fail" going forward.⁣
+- Although I started on Easy, apparently I have been on Very Easy for the last 2 hours. wtf edabit?!
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CBfnAwmFuYy/)
