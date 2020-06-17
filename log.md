@@ -1392,3 +1392,25 @@ branchname/origin. Realised/remembered origin branches are the ones on GH/remote
 
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CBfnAwmFuYy/)
+⁣
+### Day 72: 17/6/20 ⁣
+⁣
+**Today's Progress**⁣
+- Merge conflicts brief reading.⁣
+- Attempt to update hosted weather app to latest version.⁣
+- edabit on Easy: 30% Success rate in 1 hr.⁣
+- Math.abs() returns the absolute value of a number.⁣
+- Regular Expressions (RegExp) - A regular expression is a sequence of characters that forms a search pattern. The search pattern can be used for text search and text replace operations.⁣
+⁣
+**Thoughts** ⁣
+- Got myself in a bit of a pickle with my weather app, build and branches. Leave for now, scared of messing something up.⁣
+- Making sure I manually stay on edabit Easy level even though it keeps putting me back on V.Easy automatically.⁣
+- I was about to get annoyed with my math being tested - "Whats this got to do with coding?", but now I realise this is great practice for business logic. Converting what you want to happen in the real world into code.⁣
+- Some of these "Easy" ones are pretty hard (for me) even once you check the resources.⁣
+- My loop skills could be improved. Both knowing when to use, which version and how to execute.⁣
+- I can feel my brain muscles tearing. The neural pathways are being formed. It's annoying, it's painful but it's working and its worth it.⁣
+- Might look into recursion. Unsure what it is but it popping up a lot here and could be useful.⁣
+- I've been hammering the physical fitness this week which gave me an initial upturn in mood but think tiredness is catching up with me now. Might try to dial down the daily running distance.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CBiX7uEgh9c/)
