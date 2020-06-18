@@ -1414,3 +1414,29 @@ branchname/origin. Realised/remembered origin branches are the ones on GH/remote
 
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CBiX7uEgh9c/)
+⁣
+### Day 73: 17/6/20 ⁣
+⁣
+**Today's Progress**⁣
+- edabit Easy: 100% success @ 20mins per Q.⁣
+- Date object - new Date() creates a new date object with the current date and time.⁣
+- Less Than or Equal To operator. Easy way to remember: think of a reverse fat arrow rather than a sad face.⁣
+- Number.isInteger() method determines whether a value is an integer.⁣
+- RegExp and quantifiers - If you don't give any parameter and use the match() method directly, you will get an Array with an empty string.⁣
+- filter() practice.⁣
+⁣
+**Thoughts** ⁣
+- If the Q is more math than JS then I'm skipping. Time can be spent better elsewhere. There is problem-solving and there is problem-solving with math. ⁣
+- I am now logging rough completion time as well as whether I complete/use Resources/fail. Albeit the important metric for me is "Can I solve it without using the Resources?" Because this is good practice to search avenues and attempt different approaches.⁣
+- I am getting good at googling and refactoring SO code, so even if I am not using Resources (which are super hints), I am still working out how to get the function to work.⁣
+- Easy is becoming Easier, think I could be ready for Medium soon. Or may do some more Easy on the recursion and regex.⁣
+- Pen and paper helping to formulate what I want the function to do. ⁣
+- As always, breaking down the challenge into parts is helping.⁣
+- Am skipping algebra, RegExp and recursion based Qs for now. Might come back at some point.⁣
+- I am solving at a good % rate. I can now see how I can improve both in terms of time taken to complete and lines of code used. Really happy with progress so far.⁣
+- RegExp seems like it would be used a lot IRL so will spend some time on them next day or so. I get what they do but struggling with the syntax to set them up. Loops practice again wouldn't go amiss.⁣
+- I am spending a good few minutes reviewing other people's solutions so I am probably solving at a quicker solved per time rate than I am logging.⁣
+- Really getting into flow state. My ability is up to the challenge. Enjoyable session today!
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CBk44ItgiSf/)
