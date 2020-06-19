@@ -1440,3 +1440,27 @@ branchname/origin. Realised/remembered origin branches are the ones on GH/remote
 
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CBk44ItgiSf/)
+⁣
+### Day 74: 19/6/20 ⁣
+⁣
+**Today's Progress**⁣
+- Regular Expressions - a sequence of characters that forms a search pattern. Common uses include search, find and replace, password and hex code validation. Also leant basic flags and metacharacters.⁣
+- Attempt the remaining 13 Easy RegEx on edabit: 2 solved without using Resources and 1 checked solution in 2.5hrs = success rate 66%.⁣
+- match() needs to be used with a regex.⁣
+- You need backslashes to escape the regular expression special characters.⁣
+- The ^ means not and is a "caret", not "carrot".⁣
+- Regex is case-sensitive, \d matches a digit, and \D matches anything but a digit.⁣
+- Combining RegEx patterns.⁣
+⁣
+**Thoughts** ⁣
+- Got the basics of RegEx. No need to delve further into the intricacies at this stage.⁣
+- I like how you can filter by tag on the edabit challenges so I can specifically practice RegEx today.⁣
+- Enjoying the extra challenge of refactoring my solutions into more efficient code (after viewing alternative solutions).⁣
+- Looks like there are cool online tools to help construct your more complex RegEx patterns.⁣
+- I'm quite enjoying RegEx.⁣
+- Some of these regex look like the kind of thing you would see on the Predator's arm device.⁣
+- Cool to see how edabit uses tests and you can see what they are. Guessing this is my first exposure to unit testing which I will cover at some point. Just seen test() is a method of the RegExp object.⁣
+- Happy with what I've learned about RegEx (no need to go further at this stage) so will attack recursion tomorrow with the same approach: 30-60 mins reading on the subject then edabit challenges filtered by recursion.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CBnduDiAFF-/)
