@@ -1464,3 +1464,28 @@ branchname/origin. Realised/remembered origin branches are the ones on GH/remote
 
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CBnduDiAFF-/)
+
+### Day 75: 20/6/20 
+
+**Today's Progress**
+- Recursion - A function that calls itself inside of its own definition. Invoke the same function with a different input until you reach your base case (a conditional to prevent an infinite loop). Most loops can be rewritten in a recursive style and in some functional languages this approach to looping is the default. You need to remember that you won’t have just one call, you’ll have several nested calls
+- edabit Very Easy recursion qs: 0% in 2 hours.
+- arr.join("") - array to a string without commas.
+- repeat() - method constructs and returns a new string which contains the specified number of copies of the string on which it was called, concatenated together.
+- When writing recursive algo, don't try and break the problem down to the base case (that's the function's job) just think about the problem that is one step simpler than the problem you are really trying to solve, and then write your recursive algorithm to build up from there to solve the real problem.
+- split, reverse, join = quick way to reverse string with built in methods.
+- substr() method returns the characters in a string beginning at the specified location through the specified number of characters.
+
+**Thoughts** 
+- Started on Very Easy edabit recursion Qs to start from super simple and work my way up.
+- Using chrome console to test and debug some answers. Strangely I'm getting different outputs than in edabit. 
+- Discovered some cool online JS runtime envs (playcode.io) to play with code. My code works fine in here but not in edabit?!
+- Checked solution after 1 hour to find 1 simple line of code. Lol. Still good practicing my problem solving and speaking JS skills. I'm actually glad I'm not checking resources tab. Even though it is taking me super long to get there, the process is really beneficial.
+- Still avoiding the "math" tag for now to remove one extra thing to work out. 
+- Starting to check resources to at least get my recursions working. I think I am struggling with scope doing bit my (inexperienced) way. Once I start to fly through with checking then I'll go back to not checking.
+- I get the concept of recursion but they are quite fiddly. Especially setting up the recursive part of the code.
+- Although I am struggling with executing recursion, I am still learning to work with more built-in methods.
+- Still struggling to get my head around the nested inner workings and "unwinding" of recursion. Wondering if it's best to leave it as a "black-box" for now (get the function working, don't worry about HOW it works).
+
+**Link(s) To Work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CBqogr4gI5j/)
