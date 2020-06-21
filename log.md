@@ -1489,3 +1489,18 @@ branchname/origin. Realised/remembered origin branches are the ones on GH/remote
 
 **Link(s) To Work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CBqogr4gI5j/)
+
+### Day OFF: 21/6/20 
+
+**Today's Progress**
+- N/A.
+
+**Thoughts** 
+- Reflections on the last week or so: 
+- The edabit challenges have really boosted both my knowledge (especially of built in methods) and confidence. I'm building my problem solving muscle and can give most challenges a decent attempt. 
+- At the start, I struggled with Very Easy and can see the progress I have made by being able to do most of the Easy ones. Will try a few medium next week.
+- I'm finding a good balance of physical exercise = enough to keep me sharp, not too much it tires me out.
+- Looking forward to the final few weeks of the challenge. Still enjoying the journey. Fully aware that although the challenge may end soon, the learning will never stop. Lucky I love learning.
+
+**Link(s) To Work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CBs_EpRgZzM/)
