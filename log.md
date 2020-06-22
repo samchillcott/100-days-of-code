@@ -1504,3 +1504,29 @@ branchname/origin. Realised/remembered origin branches are the ones on GH/remote
 
 **Link(s) To Work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CBs_EpRgZzM/)
+⁣
+### Day 76: 22/6/20 ⁣
+⁣
+**Today's Progress**⁣
+- edabit Medium: 75% success in 2.5hrs.⁣
+- Convert an Object to an Array - 3 variations: Object.keys Object.values Object.entries.⁣
+- Rest parameter syntax - allows us to represent an indefinite number of arguments as an array.⁣
+- arguments object - arguments is an Array-like object accessible inside functions that contains the values of the arguments passed to that function.⁣
+- Array.from() - static method creates a new, shallow-copied Array instance from an array-like or iterable object.⁣
+- Javascript is always pass by value. But because object references are values, objects will behave like they are passed by reference. ⁣
+⁣
+**Thoughts** ⁣
+- Still not checking the resources but am googling. Am also noticing when I'm drafting my approaches on pen and paper I have a few options in the toolkit (now I know a few built-in methods).⁣
+- A lot of these are easy if/when you know how. Knowledge of an appropriate built-in method is the difference between taking 30 mins to solve it and 30 seconds.⁣
+- Doing well with the mediums (albeit I am skipping math, recursion and regex tags for now).⁣
+- Good fun practising with objects and accessing certain parts of them. Last week or so has mainly been arrays.⁣
+- Could do with some reduce() and map() practice, not used them much but see them about often.⁣
+- I'm noticing my solutions are now often "better code" than most of the other submissions. And a couple of times it has been better than the most voted solution (imo)! Cool.⁣
+- My loop game is lame. Added to "brush up" list.⁣
+- Pass by value and reference - I get it in principle but will do some reading on what this actually entails with regard to memory, variables and issues you can run into in JS. Some basic computer science reading will help.⁣
+⁣
+**Questions**⁣
+- Are you usually allowed to google when you do coding tests in interviews?
+
+**Link(s) To Work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CBvOEKagq2s/)
