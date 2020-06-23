@@ -1530,3 +1530,22 @@ branchname/origin. Realised/remembered origin branches are the ones on GH/remote
 
 **Link(s) To Work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CBvOEKagq2s/)
+
+### Day 77: 23/6/20 
+
+**Today's Progress**
+- Memory and pass by value/reference reading. Understanding addresses and how the hardware/memory operates. By value copies the value into two separate spots in memory effectively making them entirely separate entities.
+- edabit on Medium: 80% Success. 
+- every() - method tests whether all elements in the array pass the test implemented by the provided function. It returns a Boolean value.
+- Merging (sub) arrays - If you know you're dealing with arrays, use spread. But if you might be dealing with the possibility with a non-array, then use concat to merge.
+- By making separate smaller functions we get the ability to use them again.
+- reduce() - basically a loop with a memory.
+- flat() - method creates a new array with all sub-array elements concatenated into it recursively up to the specified depth.
+
+**Thoughts** 
+- Still avoiding the resources tab. That won't always be there in real life.
+- I managed to solve the pass by value/reference q I was stuck on yesterday in 2 minutes after my reading. I get it all a bit more and how to solve a few of the quirks.
+- Another good day at the gym. 
+
+**Link(s) To Work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CBxrA4Og9fg/)
