@@ -1549,3 +1549,24 @@ branchname/origin. Realised/remembered origin branches are the ones on GH/remote
 
 **Link(s) To Work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CBxrA4Og9fg/)
+⁣
+### Day 78: 24/6/20 ⁣
+⁣
+**Today's Progress**⁣
+- edabit Loops on Very Easy - Success 100% Started off taking a while (good pun) to complete then reduced completion time rate to 5-10 mins.⁣
+- += To remember which symbol comes first, remember it is called the "addition assignment". Add something to a variable and store the result in that variable.⁣
+⁣
+**Thoughts** ⁣
+- I'm not googling or checking Resources tab so I can really get my head around writing my own loops from scratch. The conditional part is easy, it is knowing what to put in the executable code block I am struggling with atm.⁣
+- for of and for in could do with a brush-up. Noticed I have no notes on these in my JS doc. Guessing edabit will have some challenges to practice.⁣
+- for each, map and filter (potentially quicker alternatives to basic loops) could also do with a brush-up.⁣
+- Interesting to see different loop methods have different performance times, albeit ms difference.⁣
+- Somewhat embarrassing I can't do the most basic for loop but I know I'll learn it.⁣
+- Again, tutorial hell shows that you can get far down the line of development but not know some of the most basic fundamentals.⁣
+- Glad I dropped to Very Easy and built up the loop muscle instead of moving to Hard. Would have meant I still wound't have the loop muscle going forward and that would have caught up with me.⁣
+- Keep getting caught out by using I instead of arr[i] when trying to move array items.⁣
+- Getting the hang of basic loops now. Time per q is dropping significantly. Can do more work with optimising though especially using arrow functions and map etc.⁣
+- A humbling day at the gym. But much needed.
+
+**Link(s) To Work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CB0q8PMA-IU/)
