@@ -1570,3 +1570,18 @@ branchname/origin. Realised/remembered origin branches are the ones on GH/remote
 
 **Link(s) To Work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CB0q8PMA-IU/)
+⁣
+### Day 79: 24/6/20 ⁣
+⁣
+**Today's Progress**⁣
+- Application-level state management reading - If the app gets too big and you are passing state 5 components deep (prop drilling) then use application state (Redux, useContext, MobX etc). Looking at options available and rough pros and cons of each.⁣
+- Redux - works on the simple principle of storing the entire state of the application is a single central store. This store can be accessed by all components and as such, removes the need to pass parameters and properties between components. The main building blocks of Redux are its actions, reducers, and store.⁣
+- React Context API and hooks - Context API: A clean and easy way to share state between components (without having to pass props down all of the time). Hooks: tap into the inner workings of React in functional components. These 2 combined = redux-like state management magic.⁣
+⁣
+**Thoughts** ⁣
+- Chat with mentor @voyzan yesterday and plotted the next steps for the coming weeks. @dev.jeanrauwers helped with some input.⁣
+- Although I may not need state management with what I personally am building, I feel having some basic knowledge would help if I work with a codebase that utilises some form of application-level state. Watched a few vids, took some notes then moved on to React Context and Hooks.⁣
+- More of a planning and prioritization day today, not so much learning. It will mean though that I am learning the "right things for me at this time" instead of learning other things which I may not need at this stage.
+
+**Link(s) To Work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CB25CzeALEd/)
