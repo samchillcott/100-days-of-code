@@ -1585,3 +1585,22 @@ branchname/origin. Realised/remembered origin branches are the ones on GH/remote
 
 **Link(s) To Work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CB25CzeALEd/)
+⁣
+### Day 80: 26/6/20 ⁣
+⁣
+**Today's Progress**⁣
+- React State Management Tutorial - DevEd tutorial using Context API and hooks.⁣
+- Array.map - Method to map each item in an array to something else.⁣
+- "Lifting up the state" - cutting state from original component and moving to parent. This makes state more accessible (to other components) but doesn't prevent "prop drilling" (passing props down through multiple component layers).⁣
+- Context - creates a context component which can be passed however we want. Whole App gets wrapped in the Provider so all components that are wrapped get access to the state/info.⁣
+Takes a while to set up but then you just import it and use it in whatever component you want.⁣
+⁣
+**Thoughts** ⁣
+- Getting good at setting up React apps and syncing with GH.⁣
+- Nice to be back in React. I can feel how when you leave something for a while you start to forget what you learnt, guess that's just how it is.⁣
+- .map appearing again. Noted to get familiar with this and had a quick read up on it.⁣
+- Understand context in theory and followed along ok but the finer details and setup not quite sunk in yet. It will come with practice. Cool concept though, can see how useful it is.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CB5c1q5ARS-/)
+2. [GH Repo - react_context_hooks](https://github.com/samchillcott/react_context_hooks)
