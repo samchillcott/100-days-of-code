@@ -1604,3 +1604,26 @@ Takes a while to set up but then you just import it and use it in whatever compo
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CB5c1q5ARS-/)
 2. [GH Repo - react_context_hooks](https://github.com/samchillcott/react_context_hooks)
+
+### Day 81: 27/6/20 
+
+**Today's Progress**
+- Finishing @developedbyed React State Management tut.
+- Context - really good for rendering (if you just want to pass data to display) but the downside is if context is changed, all components re-render.
+- Created dev branch and attempted to save state in local storage using the useEffect hook. 
+- Refresher on .getItem and .setItem referencing a previous tut.
+- Keys and values in localStorage are always in string format.
+- Deployed on Netlify to get used to basic CI/CD (keep a production branch and a dev branch and merge in the new features as I go).
+
+**Thoughts** 
+- Had a few attempts to "jump ahead" of the tut (which is what I used to do in the HTML and CSS tuts) by pausing the vid and trying to code myself first. Not really done this with JS/React before so I must be getting more competent. Even if I don't always nail the outcome, I have a better idea of how it can be done.
+- Looking back at previous React hooks todo code, I understand it way more now (than I did at the time) and can see how each part interacts with each other. There are still a few areas I don't quite get why certain things have been done a certain way but sure I'll figure it out the more I work with React.
+- I think knocking up a React Todo on my own from scratch would definitely solidify some concepts and knowledge.
+- Added a few minor upgrades to the tut such as adding placeholders and clearing name and price fields after submit, removing the need to add $ each new entry.
+- Other features to potentially add in the future for practice: local storage, adding random key to new entries, bring in cover image from imdb via fetch/JSON, store my state/movie list in a database. Added these as issues to GH with a view to play with linked Pull Requests at some point.
+- Struggling to get useEffect working. Probably because I am now using it in conjunction with useContext so the setup is slightly different. Good fun trying to work it out though.
+- Netlify failed the build for some reason. Will figure it out later. Hooks practise is more important.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CB8OmbAgmkA/)
+2. [GH Repo - react_context_hooks](https://github.com/samchillcott/react_context_hooks)
