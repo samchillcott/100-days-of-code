@@ -1627,3 +1627,22 @@ Takes a while to set up but then you just import it and use it in whatever compo
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CB8OmbAgmkA/)
 2. [GH Repo - react_context_hooks](https://github.com/samchillcott/react_context_hooks)
+
+### Day 82: 28/6/20 
+
+**Today's Progress**
+- Drafting project 3 approach - Basic Firebase Authentication.
+- SQL v NoSQL - SQL Relational Databases (RDBMS); NoSQL non-relational or distributed database. SQL databases are table based databases whereas NoSQL databases are document based, key-value pairs, graph databases or wide-column stores.
+- Created super basic app using html & JS and added repo to @github.
+- Created project in firebase.
+
+**Thoughts** 
+- Project 3 has been set by @voyzan with an aim to give me some experience with databases, authentication and a refresher on basic DOM manipulation, forms and event handlers.
+-  First dabble with databases, exciting. Created a google doc.
+- Strange not working in React, almost forgotten how to set things up without using npm etc.
+- Trying to avoid UFC results is a struggle when you need to use YouTube to learn. Opted to watch the main fights then return to YT.
+- Revisiting DOM manipulation - makes way more sense now I get JS, OOP, methods and how to write functions.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CB-u2XUAMmQ/)
+2. [GH Repo - sam_firebase_auth](https://github.com/samchillcott/sam_firebase_auth)
