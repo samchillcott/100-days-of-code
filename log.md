@@ -1646,3 +1646,24 @@ Takes a while to set up but then you just import it and use it in whatever compo
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CB-u2XUAMmQ/)
 2. [GH Repo - sam_firebase_auth](https://github.com/samchillcott/sam_firebase_auth)
+
+### Day 83: 29/6/20 
+
+**Today's Progress**
+- Firebase Auth - Net Ninja tut to get an idea of what is involved when working with the Firebase server and authentication in general. 
+- Authentication v Authorization - In simple terms, authentication is the process of verifying who a user is, while authorization is the process of verifying what they have access to.
+- Connected tut front end to Firebase.
+- Added JS to collect entered data from the front end and pass to FB to create new account.
+- e.preventDefault() - prevents page reloading (and losing entered data).
+
+**Thoughts** 
+- Quite a few separate concepts to get my head around with this project. Do feel a little overwhelmed but taking it bit by bit and know on the other side of this I'll have some new, useful knowledge and experience. Also added a note to my Mental Health document/workflow.
+- Feel like I am cheating with the project by doing a related tut but I need to learn somehow and I will still need to use that knowledge (and build the form/add JS) in my version. Plus the project isn't really something I'll have on my portfolio, it's purpose is for me to learn the concepts. Reframing to "challenge".
+- Cool to play with the inner workings of FB. And cool to see the concept of "back end as a service" making development and life easier by housing all these features under one roof.
+- GH was down for a while (!) so good to practice setting up git locally. Eventually added repo to GH and synced.
+- Interesting to see modals and the Materialize framework. Not really worked with either before.
+- I rested well but am yawning a lot. I don't think this is because I'm tired, more my brain is asking for more oxygen due to potential shallow breathing. Will do some reading on how to breathe better.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CCBSSK0gpIC/)
+2. [GH Repo - firebase-auth](https://github.com/samchillcott/firebase-auth)
