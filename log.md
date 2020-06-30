@@ -1667,3 +1667,27 @@ Takes a while to set up but then you just import it and use it in whatever compo
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CCBSSK0gpIC/)
 2. [GH Repo - firebase-auth](https://github.com/samchillcott/firebase-auth)
+
+### Day 84: 30/6/20 
+
+**Today's Progress**
+- Project/Challenge 3 
+- Connect my basic app to firebase.
+- Add JS event listeners and handlers.
+- Pass form data to FB.
+- Added Error handling and alerts.
+- Success message and reset form.
+- Attempt to ensure success alert only fires AFTER no errors have been found.
+
+**Thoughts** 
+- Trying to do this from my notes, memory and the official docs rather than copying and pasting the code from the tut yesterday.
+- Finding the basic DOM manipulation hard to do from memory because I did it months ago. I also learned most of my JS either in React or edabit so it's somewhat strange applying it in a Vanilla setting.
+- If I am honest, when I did DOM initially, at the time I didn't really fully get what I was doing. No worries, time to build my DOM muscle until it becomes second nature.
+- Been good practice with forms.
+- Deliberately didn't copy the way NetNinja did the Form to FB logic so I could work it out myself. I managed this but I think I realise why NN did it a different way: possibly due to the function needing to be async? (I am getting my success message before any errors get returned). OR, is this where a try catch comes in handy?
+- As usual, I could have straight copied all this over from the NN tut but glad I didn't as I have spent 3 hours really understanding the concepts of forms, event handlers and listeners, sending data to FB, error handling and alerts, control flow and (why we need) async.
+- Also reminded myself to keep tweaks to new branches then PR back in. Again, I fiddled too much on the master branch and now it doesn't work as well as it did 20 mins ago. Lesson learned. Don't F with the master if it is working!
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CCD-ICEgRmh/)
+2. [GH Repo - sam_firebase_auth](https://github.com/samchillcott/sam_firebase_auth)
