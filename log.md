@@ -1691,3 +1691,23 @@ Takes a while to set up but then you just import it and use it in whatever compo
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CCD-ICEgRmh/)
 2. [GH Repo - sam_firebase_auth](https://github.com/samchillcott/sam_firebase_auth)
+
+### Day 85: 1/7/20 
+
+**Today's Progress**
+- Project 3 "Firebasic":
+- Created an async function to display success and errors at the appropriate time.
+- Merged fix/dev branch back into the master using GitGraph (but staying on dev for future tweaks). Part 1 of challenge 100% complete.
+- Custom alerts - Looking at alternatives to the native alert/confirm/prompt. 2 common ways to display are banner and modal.
+- Continued @thenetninja tut ready for part 2 of my challenge working with data storage in FB. Created logout and login functions.
+
+**Thoughts** 
+- Promises implementation. Ugh. This is the main area of JS I haven't fully wrapped my head around.
+- Got it working perfectly (by using my weather app code as a reference) after 1.5 hours. Great lesson in control flow, error handling and promises.
+- I'm finding myself adding semicolons to the end of my sentences when I'm using everyday text/not coding. Also been having a few dreams about code lately.
+- Jumping ahead of the tut (sign I am grasping it) and successfully implementing code.
+- Getting error messages with closing the modals (Materialize). Attempting to fix. Sod it, more important things to learn. Ah no, figured it out, missing #! Commented on YT to help other users who had the same issue. One day I'll do this on Stack Overflow!
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CCGUqwQg7U3/)
+2. [GH Repo - sam_firebase_auth](https://github.com/samchillcott/sam_firebase_auth)
