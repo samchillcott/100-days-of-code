@@ -1711,3 +1711,25 @@ Takes a while to set up but then you just import it and use it in whatever compo
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CCGUqwQg7U3/)
 2. [GH Repo - sam_firebase_auth](https://github.com/samchillcott/sam_firebase_auth)
+
+### Day 86: 2/7/20 
+
+**Today's Progress**
+- Challenge #4: Add image uploader to Firebasic and store to database. (Using only the official Docs and Stack Overflow = No YT tuts).
+- Connect app to Cloud Firestore.
+- Create Upload page with upload form.
+- Script file management - Combining external scripts into as few files as possible cuts down on RTTs (Round Tip Time) and delays in downloading other resources.
+- C:\fakepath\ - Some browsers have a security feature that prevents JavaScript from knowing your file's local full path.
+- Connected app to FB collection and post is working. Is adding the file path rather than the file and is overwriting rather than adding.
+
+**Thoughts** 
+- I love how @voyzan has restricted my YT use for this one. Helps my learning and is preparing for "finding answers when the documentation is the only resource you will have." I did kinda feel like I cheated a little on the last project.
+- First time actually reading docs. I'm like that IRL though, play with the thing then consult the docs if I can't work it out myself. Then I'll usually read the whole docs (and extra material) at a later stage to become a master. I did this multiple times when using and learning different DAWs in my music production days like Cubase, Logic and Ableton.
+- I'm starting to see it is a little more difficult when not following tuts because you need to know WHERE to place all the required code in the docs instructions.
+- This challenge is so well curated because it is further practice in forms, event handling and JS as well as Firebase experience/posting to a back end.
+- Getting a few issues with knowing which JS blocks to place where using multiple pages and functions.
+- Caught myself fiddling to work it out instead of checking the docs. This is great for learning but possibly not time efficient - which isn't a prob atm but may be if I had a deadline.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CCI2XnigOLE/)
+2. [GH Repo - sam_firebase_auth](https://github.com/samchillcott/sam_firebase_auth)
