@@ -1733,3 +1733,28 @@ Takes a while to set up but then you just import it and use it in whatever compo
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CCI2XnigOLE/)
 2. [GH Repo - sam_firebase_auth](https://github.com/samchillcott/sam_firebase_auth)
+
+### Day 87: 3/7/20 
+
+**Today's Progress**
+- Project 4:
+- Further reading on databases. 
+- Set up Storage/"Bucket" in my app. (This is different to Database).
+- Created new branch for add_storage handler.
+- Reading on File API and blob.
+- Browser APIs are built into your web browser and are able to expose data from the browser and surrounding computer environment and do useful complex things with it.
+- Uploading File object working - but can't pass the correct thing on to FB storage yet. 
+
+**Thoughts** 
+- @voyzan pointed out I had got confused with some of the terms and that Firebase Storage is separate from Cloud Firestore. I thought they were interchangeable so that explains why my image was showing as a string (it was in a db not storage - which is optimised for non-text content).
+- Avoiding the official doc videos to see if I can set things up via the text only.
+- Will do some more reading on difference between API, Web API, REST API, interface etc. Have used a few during my learning but unsure on how they differ at the moment.
+- Not quite understanding how to create the reference part of the code. "To upload a file to Cloud Storage, you first create a reference to the full path of the file, including the file name."
+- Working with File API and blobs is new to me so spending time working that out.
+- As usual, I could easily watch a follow along tut but doing it this way has improved my knowledge of quite a few areas.
+- Not made much progress on the code itself today (12 lines) but definitely got head around a few key/new/important concepts. Revisiting my API notes makes more sense now.
+- Surprisingly not frustrated and actually quite enjoyed the "read a bit, fiddle a bit, uncover something else, repeat" cycle today.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CCLfA94AzKi/)
+2. [GH Repo - sam_firebase_auth](https://github.com/samchillcott/sam_firebase_auth)
