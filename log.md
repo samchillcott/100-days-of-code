@@ -1758,3 +1758,27 @@ Takes a while to set up but then you just import it and use it in whatever compo
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CCLfA94AzKi/)
 2. [GH Repo - sam_firebase_auth](https://github.com/samchillcott/sam_firebase_auth)
+⁣
+### Day 88: 4/7/20 ⁣
+⁣
+**Today's Progress**⁣
+- Project 4: Firebase Storage.⁣
+- Pulled out metadata from uploaded file ready to store in the database (alongside the image which will be in Storage).⁣
+- Upload file to Storage code working.⁣
+- Upload metadata to database code working. Both execute on submit.⁣
+- Further reading on SQL v NoSQL, types of DBMS, schema, foreign keys, types of relationships (one to many etc), scaling horizontal and vertical, dictionary (data structure).⁣
+- Understanding CFB structure - Collection v Fields v Document.⁣
+⁣
+**Thoughts** ⁣
+- I get what the reference setup is trying to do but can't figure how to get working and altering depending on which image you upload. I could hard code it here which would work but then if I uploaded a different image it wouldn't.⁣
+- Got it working by ignoring the more detailed ref setup.⁣
+- I like the approach of "just get the smallest part of it working then build up from there".⁣
+- Adding the metaData to the database was simple because I had already set that up the other day, sweet.⁣
+- It is overwriting in the database (issue I had last time) so will read about the setup/structure of the db. Sure it is my "let me fiddle and get it working without reading the docs then find it is something obvious I would have picked up if I read the docs first". Hey ho.⁣
+- Diving deeper into databases - starting to see differences and pros and cons of not just each option but each type.⁣
+- The (visual representation of the) database isn't overly intuitive in terms of structure imo.⁣
+- Can't figure out how to prevent the overwrite yet. More docs reading tomorrow will help.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CCOGfJEg51F/)
+2. [GH Repo - sam_firebase_auth](https://github.com/samchillcott/sam_firebase_auth)
