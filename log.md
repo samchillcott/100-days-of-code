@@ -1782,3 +1782,31 @@ Takes a while to set up but then you just import it and use it in whatever compo
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CCOGfJEg51F/)
 2. [GH Repo - sam_firebase_auth](https://github.com/samchillcott/sam_firebase_auth)
+
+### Day 89: 5/7/20 
+
+**Today's Progress**
+- Project 4 - Firebase Upload:
+- Prevent overwriting on upload to Firestore.
+- Use filename as the newly created document name in the collection.
+- .add(...) and .doc().set(...) are completely equivalent.
+- Converted file size into MB/KB etc.
+- Created "navigation" branch to work on getting the signup and upload pages working together. Simple nav bar at this stage.
+- Move user to upload page after signup.
+- Fixed shared JS event listeners over multiple pages issue using try catch.
+- Map object - ES6 data type optimized for adding items to and removing items from the map.
+- Attempt to refactor final upload alert to async function.
+
+**Thoughts** 
+- Although I am determined to figure out the overwriting issue myself, I have spent some time on it so may check a tut just so I can move on.
+- {merge:true} added as a second parameter to .set() doesn't seem to do anything.
+- Understanding .set and .add and when you are calling them has helped me get this working now.
+- Figured out how to delete parts of the db using the GUI - wasn't intuitive so was deleting the level above previously.
+- Really getting into the swing/habit of keeping a master branch, dev branch and "tweak" branch and merging back in when ready while not messing with the master.
+- Running into the issue of having my JS logic not working when shared across pages. This will be a good test of working out what blocks to put and link where so it doesn't clash. These are the kind of things you take for granted when in tutorial hell so I am glad I am tackling this for practice. 
+- Sure I can split my JS and bake into the relevant html page or link to separate js files but I'd like to see what other options are available.
+- Can also really see async functions are useful when dealing with a back end - you need to wait for a result before you can move on to the next line of code. One will have to wait for 2 functions = concurrency (new territory!?).
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CCQ-JjWAomj/)
+2. [GH Repo - sam_firebase_auth](https://github.com/samchillcott/sam_firebase_auth)
