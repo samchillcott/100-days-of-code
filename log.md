@@ -1810,3 +1810,24 @@ Takes a while to set up but then you just import it and use it in whatever compo
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CCQ-JjWAomj/)
 2. [GH Repo - sam_firebase_auth](https://github.com/samchillcott/sam_firebase_auth)
+
+### Day 90: 6/7/20 ⁣
+⁣
+**Today's Progress**⁣
+- Project 4: Firebase Upload.⁣
+- Fixed final alert to wait until both uploading functions have finished before showing using async await.⁣
+- Added error handling to storage upload.⁣
+- Reading on common branch strategies and naming conventions. ⁣
+- Hotfix v Bugfix - Hotfix is generally used when client has found an issue within the current release of the product and can not wait to be fixed until the next big release. Bugfix is when an issue is found during the development and testing phase internally.⁣
+- Added new feature branch using naming convention - feature/user-must-be-authenticated-to-upload. ⁣
+- Deleting all users from auth then trying to upload highlights more error handling/control flow is needed. Final alert shows even though upload to storage "failed". ⁣
+⁣
+**Thoughts** ⁣
+- Took me a while to figure how to execute waiting on 2 functions. Pondered for too long though. Reminder to self to start fiddling (from a safe space) and have a play then you can work it out as you go.⁣
+- Really starting to understand async await both as a concept and how to execute it. Super useful. It is these types of control flows that I love planning and working with and why I knew programming would be fun (once I figured out how to code).⁣
+- Just when you think you've got everything working ok, the next feature opens up more issues. Gotta love programming. To be fair, a more advanced programmer/better planning would have anticipated these errors earlier on in the process and wrote the handling into the code earlier.⁣
+- I can see where my new flow is failing: as far as the double upload function is concerned, the nested uploadtostorage function is "complete" even though it came back as an error. This is highlighting my as yet FULL understanding of how Promises work.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CCTUokqAnw_/)
+2. [GH Repo - sam_firebase_auth](https://github.com/samchillcott/sam_firebase_auth)
