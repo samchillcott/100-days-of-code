@@ -1831,3 +1831,28 @@ Takes a while to set up but then you just import it and use it in whatever compo
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CCTUokqAnw_/)
 2. [GH Repo - sam_firebase_auth](https://github.com/samchillcott/sam_firebase_auth)
+⁣
+### Day 91: 7/7/20 ⁣
+⁣
+**Today's Progress**⁣
+- Project 4: Firebase Upload - Challenge completed including optional task.⁣
+- Fixed the logic so the second upload only goes through if the authentication AND first upload do. Altered code so the upload functions were chained/nested instead of parallel.⁣
+- Merged feature branch into dev and master.⁣
+- Wrote the user workflow for the app and added to the .readme.⁣
+- Brush up on markdown syntax. I'll be adding challenge spec and notes on what I learned to each project's .readme.⁣
+- Further reading on async-await - When we use async/await, we rarely need .then, because await handles the waiting for us. And we can use a regular try..catch instead of .catch. That’s usually (but not always) more convenient.⁣
+- Codecademy Async-Await section.⁣
+- Code review and planning the next steps with mentor @voyzan.⁣
+⁣
+**Thoughts** ⁣
+- The potential solution came to me at random o clock in the morning. Love how the brain works sometimes.⁣
+- I feel async-await is the answer for what I need here. Realised I never finished the Codecademy section on this so I do have a small gap in knowledge here.⁣
+- Not sure why GitGraph doesn't have all nodes parallel if all branches are currently equivalent. The dots make it look like one is further ahead than the other. Ah I see why (the descriptions are listed vertically by sentence), but it still looks odd.⁣
+- Error handling looks easier to handle using async-await (than promises).⁣
+- Chuffed another challenge complete. Again, expertly curated to build my muscles in the appropriate areas: not using tuts, interacting with databases, control flow and async.⁣
+- CA AA makes a lot more sense now I can really read and understand JS. When I initially looked at this section, I hadn't built any projects so didn't have the ability or experience to fully grasp what was happening (both on the surface or under the hood). I'm still not 100% there in terms of "speaking" async/promises but can "read" them no problem now. Working my way through the exercises ok. ⁣
+- I see the CA AA section has chapters on Handling Dependent and Independent Promises. This is where my issues in this week's challenge have come from.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CCWXN-_ARfL/)
+2. [GH Repo - sam_firebase_auth](https://github.com/samchillcott/sam_firebase_auth)
