@@ -1856,3 +1856,25 @@ Takes a while to set up but then you just import it and use it in whatever compo
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CCWXN-_ARfL/)
 2. [GH Repo - sam_firebase_auth](https://github.com/samchillcott/sam_firebase_auth)
+
+### Day 92: 8/7/20 
+
+**Today's Progress**
+- Codecademy Async Await - includes sections on error handling using try catch and concurrency. Finished chapter.
+- Await Promise.all() - We can pass an array of promises as the argument to Promise.all(), and it will return a single promise. This promise will resolve when all of the promises in the argument array have resolved. This promise’s resolve value will be an array containing the resolved values of each promise from the argument array.
+- Refactor Project 4 promise functions to AA - created new branch using naming convention.
+- Escape sequences - begin with a backslash ( \ ) within the string, which in essence tells the compiler “Stop! The upcoming text is special.” Eg \n = new line.
+- Quick revisit to Promises to see if it makes more  sense. Slowly/almost, now I understand what objects and methods are (more than I did when I first came across Promises).
+- I'm still struggling to find an animation or diagram of Promises/Promise object that makes sense to me.
+
+**Thoughts** 
+- Slowly getting my head around the difference between the catch in try/catch and .catch(). Catch (from try catch) catches the errors from the try block, .catch only catches the errors from the single promise.
+- Decided to finish off the CA AA first = great prep to refactor my code.
+- Poor sleep hindered my brain capacity today. Will refactor my code tomorrow.
+
+**Questions**
+- How would you then deal with each specific promise/function error individually (using try catch)? Use a .catch on that promise or can you pluck out which error to handle individually in the catch block?
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CCYUUDtjti2/)
+2. [GH Repo - sam_firebase_auth](https://github.com/samchillcott/sam_firebase_auth)
