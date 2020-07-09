@@ -1878,3 +1878,32 @@ Takes a while to set up but then you just import it and use it in whatever compo
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CCYUUDtjti2/)
 2. [GH Repo - sam_firebase_auth](https://github.com/samchillcott/sam_firebase_auth)
+
+### Day 93: 9/7/20 
+
+**Today's Progress**
+- Refactor Firebase Challenge 4 code from promises to AA.
+- Added some client side checks including checking if a user is authenticated before uploading. This was previously handled by Firebase so required a request. Also added an email format  and password length check so the server doesn't have to deal with those either.
+- If user isn't signed up, send them to the Signup page.
+- Client side validation & checks - handling these on the client side reduces the number of requests made to the server so is quicker and more efficient.
+- console.time() - Starts a timer you can use to track how long an operation takes. By validating on the client-side, you have a smoother user experience.
+- Created new feature branch to set up Firebase Hosting.
+- Reading on email/form validation - methods include using RegExp and disabling submit buttons until correct.
+
+**Thoughts** 
+- I can now see the syntax flows of both Promises and AA so can adjust accordingly. Refactored my code and it looks and feels so much better.
+- Been encouraged by my mentor to use the debugger more (than console logs) so did a lot of trouble shooting checking variables at different stages inside the debugger.
+- Getting used to using the return keyword to halt execution. Not really utilized it before.
+- Still unsure of how to "pause/wait" my code until the await function returns. Also unsure how to actually check it is waiting because sometimes we are talking milliseconds which makes it look like it hasn't waited before moving on.
+- I'm struggling to force an error to check if the async is working. Guessing this is where tests come in - to predicts edge cases/what ifs..?
+- Realised my double success alert should be outside of the try catch block - it only fires if (both functions within) the try block is successful. I think. Again, unsure how to check.
+- Used console.time to check if await was waiting. Without the await it was 2ms, with it was 238ms so safe to say the success alert was only showing once the promise was resolved.
+
+**Questions**
+- Why is VScode removing semicolons after some code blocks when I save?
+- How can I check if my await functions are actually halting execution to the next line?
+- What do the ze and tt mean when the promise objects are returned?
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CCa-ZooAJoc/)
+2. [GH Repo - sam_firebase_auth](https://github.com/samchillcott/sam_firebase_auth)
