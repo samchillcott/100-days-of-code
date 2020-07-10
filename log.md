@@ -1907,3 +1907,29 @@ Takes a while to set up but then you just import it and use it in whatever compo
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CCa-ZooAJoc/)
 2. [GH Repo - sam_firebase_auth](https://github.com/samchillcott/sam_firebase_auth)
+⁣
+### Day 94: 10/7/20 ⁣
+⁣
+**Today's Progress**⁣
+- Error handling tips reading - As a general rule, don’t blanket-catch exceptions unless it is for the purpose of “routing” them somewhere.⁣
+- throw keyword - lets you create custom errors (usually an error object inheriting from the built-in Error class).⁣
+- Rethrowing - Catch should only process errors that it knows and “rethrow” all others.⁣
+- Project Firebasic:⁣
+- Split my 2 upload functions into separate try catch blocks to catch specific errors depending on which upload failed (previously both uploads were inside one try block which makes a more vague catch error if something goes wrong).⁣
+- Tried to break my code in a few places, and succeeded so attempted to add some bespoke error handling.⁣
+- Added some tactically placed returns (after the error message gets displayed to user) to jump out of the double upload sequence if an error occurs at any stage.⁣
+- Firebase hosting setup - using Docs only.⁣
+⁣
+**Thoughts** ⁣
+- Better/more bespoke error handling cropped up as feedback on all of my projects so looked into best practices and how to predict and handle errors and exceptions better. Displaying the error object's message kinda works but isn't the best UX.⁣
+- Threw a few "what ifs" into my code/input to test how it would handle certain errors and that highlighted some pitfalls in my control flow. As I said to my mentor the other day "I'm great with 'success handling', but never really consider error handling". Now's the time to try (good pun).⁣
+- Blocked at the first hurdle of hosting due to a permissions issue. Terminal commands are on my to do list so may check them out next day or so. Keeps asking me for a password which I keep failing! Password to what?! Can't get basic CLI or npm version installed. Turns out I don't know my Mac admin password! Reset Mac pword in recovery mode. CLI/Firebase tools now installed.⁣
+- Firebase serve seems to be working fine but not deploy, yet. This is probably due to incomplete understanding of what happens during building and deployment. This is also on my todo/read about list. No, turns out f5/refresh did the job! App hosted on Firebase!⁣
+⁣
+**Questions**⁣
+- Do you bother writing code that handles ALL the things you can predict may go wrong? How do you know which ones to write code for?
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CCdiv3KAcZH/)
+2. [GH Repo - sam_firebase_auth](https://github.com/samchillcott/sam_firebase_auth)
+3. [Hosted app - Firebasic](https://firebasic-b4186.web.app/)
