@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: 31/3/20 Tuesday  
+### Day 1: 31/3/20   
 
 **Today's Progress**: I've got my head around the various ways of writing functions, the difference between expressions and declarations and how parameters and arguments interact with each other.
 
@@ -11,7 +11,7 @@ Basics, but I realised when doing a React tut recently I was following ok with t
 **Link(s) to work**
 1. [IG Video #100DaysOfCode Day 1](https://www.instagram.com/p/B-Z05zqA34O/)
 
-### Day 2: 1/4/20 Tuesday  
+### Day 2: 1/4/20   
 
 **Today's Progress**: Figured out all teh different ways to write functions. Leant how to convert functions to arrow functions (and revert).
 
@@ -1933,3 +1933,26 @@ Takes a while to set up but then you just import it and use it in whatever compo
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CCdiv3KAcZH/)
 2. [GH Repo - sam_firebase_auth](https://github.com/samchillcott/sam_firebase_auth)
 3. [Hosted app - Firebasic](https://firebasic-b4186.web.app/)
+
+### Day 95: 11/7/20 
+
+**Today's Progress**
+- Prepping notes for portfolio site content and creation.
+- Gatsby.js - learning how it works, the pros and cons and some basics on rendering (static v client v server).
+- Gatsby installation and play with basic template to see the folder structure and how to customise.
+- Started my MVP Portfolio site using the template.
+
+**Thoughts** 
+- Checking out Gatsby as a tech to potentially use to create my portfolio site. 
+- Even an intro video has helped me understand how sites are usually served and how Gatsby differs. Makes me realise I have spent hours learning languages, building apps and using services that do my hosting but not really super clear on what goes on behind the scenes to make a site live. I did look at it a while back so will revisit notes.
+- This is my first experience with weighing up and trying to select which tech to use for a certain project. Previous project technologies/languages were chosen because of the tech itself (I wanted experience with that specific tech so didn't consider alternatives). Guess it depends on the objective - timelines, learning curve, learning goals, specs required etc.
+- Although I could build a basic site to host my projects, I am drawn toward learning a new tech because it will give me further experience and also on peripheral things such as hosting/rendering/data flow & storage and so on.
+- Wanted an MVP (1 page with a paragraph about me and links to my projects) up and running ASAP so thought may as well kill two birds with one stone by installing a basic template to get used to/have a play Gatsby at the same time.
+- My knowledge of React made the tweaking of the template super simple. Got into the zone and knocked out most of it already. I now have something to show for all my hours spent on the projects.
+- I will probably update this to something more flash or maybe I'll keep it this simple and job done?
+- I'm starting to get a feel for what it's like to come up with an idea, find the tech to build it, (have the knowledge to) implement that tech and create something from nothing. That's cool af!
+- I'm also getting a feel for how you can sit and code for hours and not get up to move or eat. Happy I'm now at that level but also something to keep an eye on in terms of health.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CCgmFOLgF9f/)
+2. [GH Repo - gatsby-starter-dev-portfolio](https://github.com/samchillcott/gatsby-starter-dev-portfolio)
