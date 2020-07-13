@@ -1968,3 +1968,19 @@ Takes a while to set up but then you just import it and use it in whatever compo
 
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CCjNTQNg7VJ/)
+⁣
+### Day 96: 12/7/20 ⁣
+⁣
+**Today's Progress**⁣
+- Finish MVP portfolio: About page and Resume link.⁣
+- Edited resume to have the same fonts for consistency between the two items.⁣
+⁣
+**Thoughts** ⁣
+- Rearranging CSS is slightly more difficult when someone else wrote the Sass/CSS. Will delete and redo a lot of this.⁣
+- Few minor styling & layout tweaks left but as an MVP it is doing a job. Will fiddle over the coming days to get it looking exactly how I want it.⁣
+- Holding fire on the build and deploy - I will be doing a challenge on building (using Gulp) in the coming days so will be getting my head around what happens during the build stage (which is still a foggy area for me).⁣
+- Once built, I'll look at hosting options and domain setup. The site itself can be swapped out (for updated one using the same address) once I'm set up.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CClZu9uAqgo/)
+2. [GH Repo - gatsby-starter-dev-portfolio](https://github.com/samchillcott/gatsby-starter-dev-portfolio)
