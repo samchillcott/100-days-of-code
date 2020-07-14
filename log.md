@@ -1984,3 +1984,20 @@ Takes a while to set up but then you just import it and use it in whatever compo
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CClZu9uAqgo/)
 2. [GH Repo - gatsby-starter-dev-portfolio](https://github.com/samchillcott/gatsby-starter-dev-portfolio)
+⁣
+### Day 97: 14/7/20 ⁣
+⁣
+**Today's Progress**⁣
+- Challenge 6: Gulp Basic - Write a simple build system using Gulp.⁣
+- Reading on the build process, build system, build tools, CI/CD and pipelines for an overview. ⁣
+- Updated new google doc to cover Build (systems and tools), Deploy and CI/CD.⁣
+- A build is just a production-ready version of your app - having multiple JavaScript or CSS files isn’t ideal. When a user visits your site, each of your files will require an additional HTTP request, making your site slower to load. So to remedy this, you can create a “build” of our app, which merges all your CSS files into one file, and does the same with your JavaScript. This way, you minimize the number and size of files the user gets. To create this “build,” you use a “build tool.⁣
+⁣
+**Thoughts** ⁣
+- Looking forward to getting my head around this as the build stage has tripped me up in the past (2 of my projects are not showing the latest updates because I ran npm run build on them and can't get them working on my hosting service because I don't know what the build has done to the project and how to get it live again). Understanding this process will enable me to go back and get those 2 updated and running for my portfolio. And I get to learn Gulp too = win.⁣
+- Starting to piece together CI/CD, build and deploy. Kinda know what each one does at a very basic level but can now see the flow and where they all sit in the process.⁣
+- Rather than jump into the challenge, I decided to read up on the concept of the build process, what is involved and why we do it to give me some context.⁣
+- Had a quick look a folder structure of my Weather and Coaching Q apps to see if I can spot why they aren't hosting the latest version (on GHP and Netlify respectively). Don't see why yet. Further reading on file and folder structure after builds is incoming.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CCoBBCpgcdx/)
