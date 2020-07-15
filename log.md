@@ -2001,3 +2001,27 @@ Takes a while to set up but then you just import it and use it in whatever compo
 
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CCoBBCpgcdx/)
+
+### Day 98: 15/7/20 
+
+**Today's Progress**
+- Challenge 6 - Gulp Build System.
+- Cloned a simple JS/Sass app from GH to use for challenge (Contains more than one JS file, uses Sass, isn't in React and doesn't already have build folder).
+- Gulp install - needed sudo and global.
+- Created gulpfile.js - run basic "Hello" gulp task.
+- Globs - matching patterns for files that allow you to add more than one file into gulp.src. It’s like regular expressions, but specifically for file paths.
+
+**Thoughts** 
+- The initial spec was to create a crude app with the trinity of languages and sass. I thought it would be best to try this challenge using my portfolio site but realised at stupid o clock this morning (thanks brain) that Gulp may not be able to work with JSX/React/Gatsy so I'll use Gulp on another app and also look into webpack at a later date. Webpack is a bundler whereas Gulp is a task runner. 
+- Read what the package.json file is/does.
+- Still don't have a full grasp of node, npm and packages yet.
+- Am avoiding a follow along tut as long as possible.
+- Haven't even installed Gulp yet and feel like today has been somewhat slow but I know it hasn't been wasted effort as I am learning a lot of peripheral and necessary stuff around folder structures and content (src, public, package.json and gitignore), build and deploy.
+- Committing ok on my clone but unable to push. I thought a clone would mean I push to MY version not the origin? Found a workaround using upstream so can now push to my repo.
+- As far as I can see the Docs don't actually show what processes are available (eg transpile, minify etc). I was expecting some sort of list of functions/presets I could pick from then add to my pipe.
+- "Sleep Jazz" as my mood music is super chilled. Nice break from deep house/dub techno. Was up at 5am so started work rather than try to get back to sleep. 
+- I'm finding on days I run, I rarely sleep well that night (Post-exercise insomnia). Took it steadier on my running pace yesterday (3miles in the early afternoon) so feel physically fresher this morning (compared to when I'm pushing the pace) but still woke up early. Will try a few tweaks to prevent this going forward.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CCqQPCnAgEp/)
+2. [GH Repo - sam-sassy-mobile-music-gulp](https://github.com/samchillcott/sam-sassy-mobile-music-gulp)
