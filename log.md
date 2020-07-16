@@ -2025,3 +2025,34 @@ Takes a while to set up but then you just import it and use it in whatever compo
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CCqQPCnAgEp/)
 2. [GH Repo - sam-sassy-mobile-music-gulp](https://github.com/samchillcott/sam-sassy-mobile-music-gulp)
+
+### Day 99: 16/7/20 
+
+**Today's Progress**
+- Challenge 6 - Gulp Build System.
+- Installed required plugins.
+- Setup Sass task - compilation + minify(cssnano). 
+- Setup JS task - concat + uglify.
+- Setup Move Static task.
+- Setup Clean task - deletes dist dir before other tasks run.
+- Setup default task - runs all the above in series.
+
+**Thoughts** 
+- Docs are insufficient so using a written tut to get my pipe up and running. Needed a refresher on the difference between node.js 'require' and ES6 'import' and 'export' as different tuts were using different approaches.
+- Installing plugins via the terminal/npm is a step I missed yesterday. I assumed if you imported/installed gulp you would automatically have access to all it's plugins. (And still don't see why you don't tbh).
+- Spent a while figuring out the difference between uglify, minify and concat and why we need each process. Realised my build will need all of these at some point in my pipe.
+- I can see there are multiple different packages available for each process. I'm sticking to the 'hopefully easier to configure' options for now just to get an MVP going. Minimum Viable Pipe.
+- Caught myself trying to learn every aspect of the packages/gulp. Now is not the time. Get your pipe up! Decided to try code and iterate.
+- Used terser because uglify doesn't work on ES6. Realised I needed gulp-terser!
+- run sequence causing error - switch to gulp 4s series to run all the tasks in order. Running with no errs but doesn't seem to be executing the tasks as planned. Got working using Docs.
+- Realising following any non Docs tut can lead you to outdated tech/practices.
+- clean task deletes the whole dir rather than the files inside but default still runs ok.
+- Struggling to get it to move static folder AND contents to dist. Needed **/* and a base.
+- CSS seems fine in dist. Unable to verify if JS conversion worked correctly because initial repo functionality didn't work!
+
+**Questions**
+- What if I have been using live sass compiler and already have a (scss converted to) CSS file? Guess I minify that.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CCtVwctgFJm/)
+2. [GH Repo - sam-sassy-mobile-music-gulp](https://github.com/samchillcott/sam-sassy-mobile-music-gulp)
