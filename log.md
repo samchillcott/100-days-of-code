@@ -2056,3 +2056,32 @@ Takes a while to set up but then you just import it and use it in whatever compo
 **Link(s) to work**
 1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CCtVwctgFJm/)
 2. [GH Repo - sam-sassy-mobile-music-gulp](https://github.com/samchillcott/sam-sassy-mobile-music-gulp)
+
+### Day 100: 17/7/20 
+
+**Today's Progress**
+- Portfolio deployment.
+- Localhost reading.
+- Trouble-shooting Netlify build.
+- Updated npm outdated modules.
+- Hosted on Netlify with updated address.
+- Tidied up hover links.
+- Created sub domain with my hosting provider.
+- Attempt to link portfolio to subdomain.
+
+**Thoughts** 
+- Gatsby Portfolio not hot reloading so did some further reading on localhost. Still unsure of what the different ports entail and their significance.
+- Although I understand the build process better now, React and Gatsby do it slightly differently so have to understand file trees of both to fully understand the deploy stage.
+- Created new branch for build fix - Installed npm-check-updates and updated all my old modules in the hope it fixes the build.
+- Still failing build - looks like it is due to a GraphQL issue.
+- Netlify seems to be watching the master which is great. Each commit triggers a new deploy.
+- It is the Gatsby config/GraphQL that is causing the issue. My lack of GraphQL knowledge is preventing me seeing what is missing. The template also had a blog feature initially. I deleted most of it but wondering if remnants of it are looking for parts. Yes, commented out some parts of the Gatsby-node.js file and deploy worked!
+- Had a play with subdomains on my cPanel and Netlify but decided to wait in case I mess something up somewhere. Will eventually have custom domain for my portfolio.
+- I may have got it working but will have to wait a day because it might take that long for my configuration to go through.
+- I'll go deeper into deploying and hosting at some point.
+- #100DaysOfCode Complete.
+
+**Link(s) to work**
+1. [IG Video #100DaysOfCode](https://www.instagram.com/p/CCvjUgRgnt0/)
+2. [GH Repo - gatsby-starter-dev-portfolio](https://github.com/samchillcott/gatsby-starter-dev-portfolio)
+3. [Netlify hosted Portfolio](https://samchillcott-portfolio.netlify.app/)
